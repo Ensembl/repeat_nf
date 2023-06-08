@@ -2,10 +2,10 @@
 
 process buildDatabase {
     input:
-    path fastaFile
+    path fastaFile                   // Input parameter: Path to a FASTA file
 
     output:
-    path "${fastaFile}_repeatmodeler", emit:output_dir
+    path "${fastaFile}_repeatmodeler", emit:output_dir   // Output directory path
 
     script:
     """
@@ -17,7 +17,7 @@ process buildDatabase {
 
 process repeatmodeler{
     input:
-    val databaseFile
+    val databaseFile                  // Input parameter: Path to the database file
 
     script:
     """
@@ -25,5 +25,3 @@ process repeatmodeler{
     /hps/software/users/ensembl/genebuild/do1/assembly_registry/RepeatModeler-2.0.3/RepeatModeler -engine ncbi -numAddlRounds 1 -pa 10 -database repeatmodeler_db    
     """
 }
-
-

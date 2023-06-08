@@ -6,10 +6,10 @@ params.outDir = "${workDir}"
 include {buildDatabase} from params.modules_path
 include {repeatmodeler} from params.modules_path
 
-params.input = ""
+params.input = ""                                 // Input parameter(path to your input fasta file)
 
 workflow {
-    buildDatabase(params.input) 
-    repeatmodeler(buildDatabase.out.output_dir)
+    buildDatabase(params.input)                  // Execute the 'buildDatabase' process with the input parameter
+    repeatmodeler(buildDatabase.out.output_dir)  // Execute the 'repeatmodeler' process with the output directory from 'buildDatabase' as input
 }
 
