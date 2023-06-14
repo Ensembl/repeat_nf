@@ -39,7 +39,21 @@ process repeatmasker{
 
     script:
     """
-    mkdir -p ${fastaFile}_repeatmasker/ && cd ${fastaFile}_repeatmasker/
-    /hps/software/users/ensembl/ensw/C8-MAR21-sandybridge/linuxbrew/bin/RepeatMasker -nolow -lib "${databaseFile}/repeatmodeler_db-families.fa" "${fastaFile}" engine RMBlast -dir .    
+    mkdir -p repeatmasker_output/ && cd repeatmasker_output/
+    /hps/software/users/ensembl/ensw/C8-MAR21-sandybridge/linuxbrew/bin/RepeatMasker -nolow -lib "${databaseFile}/repeatmodeler_db-families.fa" "${fastaFile}" engine RMBlast -dir . -gff
+    """
+}
+
+process dust{
+    input:
+    val fastaFile
+
+    output:
+    path "dust_output", emit:output_dir
+
+    script:
+    """
+    mkdir -p dust_output/ && cd dust_output/
+    /hps/software/users/ensembl/ensw/C8-MAR21-sandybridge/linuxbrew/bin/dustmasker -in ${fastaFile} -out dustmasker.out 
     """
 }
