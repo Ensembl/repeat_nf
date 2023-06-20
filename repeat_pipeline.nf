@@ -7,6 +7,7 @@ include { buildDatabase } from params.modules_path
 include { repeatmodeler } from params.modules_path
 include { repeatmasker } from params.modules_path
 include { dust } from params.modules_path
+include { trf } from params.modules_path
 
 params.input = ""
 
@@ -15,5 +16,6 @@ workflow {
     repeatmodeler(buildDatabase.out.output_dir,buildDatabase.out.fastaFile)
     repeatmasker(buildDatabase.out.fastaFile,repeatmodeler.out.output_dir)
     dust(params.input)
+    trf(params.input)
 }
 

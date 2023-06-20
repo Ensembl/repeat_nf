@@ -57,3 +57,18 @@ process dust{
     /hps/software/users/ensembl/ensw/C8-MAR21-sandybridge/linuxbrew/bin/dustmasker -in ${fastaFile} -out dustmasker.out 
     """
 }
+
+process trf{
+    input:
+    val fastaFile
+
+    output:
+    path "trf_output", emit:output_dir
+
+    shell:
+    '''
+    mkdir -p trf_output/ && cd trf_output/
+    bash -c '/hps/software/users/ensembl/ensw/C8-MAR21-sandybridge/linuxbrew/bin/trf !{fastaFile} 2 5 7 80 10 40 500 -d -h' || echo "processed $? TRs"
+    '''
+}
+
