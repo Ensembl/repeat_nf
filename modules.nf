@@ -10,7 +10,7 @@ process buildDatabase {
 
     script:
     """
-    /hps/software/users/ensembl/genebuild/do1/assembly_registry/RepeatModeler-2.0.3/BuildDatabase -name repeatmodeler_db -engine ncbi "${fastaFile}"
+    /opt/RepeatModeler/BuildDatabase -name repeatmodeler_db -engine ncbi "${fastaFile}"
     mkdir -p ${fastaFile}_database/
     mv repeatmodeler_db.* ${fastaFile}_database/
     """
@@ -27,7 +27,7 @@ process repeatmodeler{
     script:
     """
     mkdir -p repeatmodeler_output/ && cd repeatmodeler_output/
-    /hps/software/users/ensembl/genebuild/do1/assembly_registry/RepeatModeler-2.0.3/RepeatModeler -engine ncbi -numAddlRounds 1 -pa 10 -database ${databaseFile}/repeatmodeler_db    
+    /opt/RepeatModeler/RepeatModeler -engine ncbi -numAddlRounds 1 threads 40 -database ${databaseFile}/repeatmodeler_db    
     cp ${databaseFile}/repeatmodeler_db-families.fa ./
     """
 }
@@ -40,7 +40,7 @@ process repeatmasker{
     script:
     """
     mkdir -p repeatmasker_output/ && cd repeatmasker_output/
-    /hps/software/users/ensembl/ensw/C8-MAR21-sandybridge/linuxbrew/bin/RepeatMasker -nolow -lib "${databaseFile}/repeatmodeler_db-families.fa" "${fastaFile}" engine RMBlast -dir . -gff
+    /opt/RepeatMasker/RepeatMasker -nolow -lib "${databaseFile}/repeatmodeler_db-families.fa" "${fastaFile}" engine RMBlast -dir . -gff
     """
 }
 
@@ -54,7 +54,7 @@ process dust{
     script:
     """
     mkdir -p dust_output/ && cd dust_output/
-    /hps/software/users/ensembl/ensw/C8-MAR21-sandybridge/linuxbrew/bin/dustmasker -in ${fastaFile} -out dustmasker.out 
+    /opt/rmblast/bin/dustmasker -in ${fastaFile} -out dustmasker.out 
     """
 }
 
@@ -68,7 +68,7 @@ process trf{
     shell:
     '''
     mkdir -p trf_output/ && cd trf_output/
-    bash -c '/hps/software/users/ensembl/ensw/C8-MAR21-sandybridge/linuxbrew/bin/trf !{fastaFile} 2 5 7 80 10 40 500 -d -h' || echo "processed $? TRs"
+    bash -c '/opt/trf !{fastaFile} 2 5 7 80 10 40 500 -d -h' || echo "processed $? TRs"
     '''
 }
 
