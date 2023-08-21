@@ -36,11 +36,12 @@ process repeatmasker{
     input:
     val fastaFile
     val databaseFile
+    val engine
 
     script:
     """
     mkdir -p repeatmasker_output/ && cd repeatmasker_output/
-    /opt/RepeatMasker/RepeatMasker -nolow -lib "${databaseFile}/repeatmodeler_db-families.fa" "${fastaFile}" engine RMBlast -dir . -gff
+    /opt/RepeatMasker/RepeatMasker -nolow -lib "${databaseFile}/repeatmodeler_db-families.fa" "${fastaFile}" engine "${engine}" -dir . -gff
     """
 }
 

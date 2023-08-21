@@ -10,11 +10,12 @@ include { dust } from params.modules_path
 include { trf } from params.modules_path
 
 params.input = ""
+params.engine = ""
 
 workflow {
     buildDatabase(params.input)
     repeatmodeler(buildDatabase.out.output_dir,buildDatabase.out.fastaFile)
-    repeatmasker(buildDatabase.out.fastaFile,repeatmodeler.out.output_dir)
+    repeatmasker(buildDatabase.out.fastaFile,repeatmodeler.out.output_dir,params.engine)
     dust(params.input)
     trf(params.input)
 }
