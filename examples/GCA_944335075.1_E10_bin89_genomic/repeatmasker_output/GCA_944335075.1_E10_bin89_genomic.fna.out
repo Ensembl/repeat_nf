@@ -1,0 +1,19 @@
+   SW   perc perc perc  query              position in query       matching       repeat       position in repeat
+score   div. del. ins.  sequence           begin  end     (left)   repeat         class/family begin  end    (left)  ID
+
+ 1205    9.8  2.7  0.0  CALVKZ010000001.1   19340  19522 (16016) C rnd-1_family-0 Unknown       (0)    190      3   1  
+ 1253   14.8  0.5  0.0  CALVKZ010000008.1    3350   3538  (5028) + rnd-1_family-0 Unknown         1    190    (0)   2  
+ 1404    7.1  3.8  0.0  CALVKZ010000020.1    5577   5759 (48770) C rnd-1_family-0 Unknown       (0)    190      1   3  
+ 1224   12.8  1.6  0.0  CALVKZ010000020.1   35675  35861 (18668) C rnd-1_family-0 Unknown       (0)    190      1   4  
+ 1319   13.2  0.0  0.0  CALVKZ010000022.1     217    405 (22604) + rnd-1_family-0 Unknown         1    189    (1)   5  
+ 1587    6.3  0.0  0.0  CALVKZ010000045.1    6127   6316 (25678) + rnd-1_family-0 Unknown         1    190    (0)   6  
+ 1354    9.7  2.7  0.0  CALVKZ010000045.1   12770  12954 (19040) C rnd-1_family-0 Unknown       (0)    190      1   7  
+ 1255    9.3  4.4  0.5  CALVKZ010000045.1   26571  26753  (5241) C rnd-1_family-0 Unknown       (0)    190      1   8  
+ 1514    6.8  0.0  0.0  CALVKZ010000057.1    5132   5321 (26474) + rnd-1_family-0 Unknown         1    190    (0)   9  
+ 1408    9.5  0.5  0.0  CALVKZ010000063.1   19054  19242  (7568) + rnd-1_family-0 Unknown         1    190    (0)  10  
+ 1050   12.2  5.0  0.0  CALVKZ010000076.1    7224   7404 (55422) C rnd-1_family-0 Unknown       (0)    190      1  11  
+ 1285   10.5  0.0  0.0  CALVKZ010000077.1   22814  23003 (56750) C rnd-1_family-0 Unknown       (0)    190      1  12  
+ 1045   10.7  6.7  0.0  CALVKZ010000079.1   38718  38895 (52488) C rnd-1_family-0 Unknown       (0)    190      1  13  
+ 1214   10.6  0.5  0.0  CALVKZ010000092.1    1551   1739 (23289) + rnd-1_family-0 Unknown         1    190    (0)  14  
+ 1213   10.6  1.1  0.0  CALVKZ010000093.1    1857   2044 (56748) C rnd-1_family-0 Unknown       (0)    190      1  15  
+ 1212   10.1  1.1  0.0  CALVKZ010000096.1  111900 112087  (4141) C rnd-1_family-0 Unknown       (0)    190      1  16  

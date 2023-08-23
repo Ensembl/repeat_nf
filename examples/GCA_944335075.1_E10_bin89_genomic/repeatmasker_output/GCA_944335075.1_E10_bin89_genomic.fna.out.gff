@@ -1,0 +1,30 @@
+##gff-version 3
+##sequence-region CALVKZ010000001.1 1 35538
+CALVKZ010000001.1	RepeatMasker	dispersed_repeat	19340	19522	 9.8	-	.	ID=1;Target "Motif:rnd-1_family-0" 3 190
+##sequence-region CALVKZ010000008.1 1 8566
+CALVKZ010000008.1	RepeatMasker	dispersed_repeat	3350	3538	14.8	+	.	ID=2;Target "Motif:rnd-1_family-0" 1 190
+##sequence-region CALVKZ010000020.1 1 54529
+CALVKZ010000020.1	RepeatMasker	dispersed_repeat	5577	5759	 7.1	-	.	ID=3;Target "Motif:rnd-1_family-0" 1 190
+CALVKZ010000020.1	RepeatMasker	dispersed_repeat	35675	35861	12.8	-	.	ID=4;Target "Motif:rnd-1_family-0" 1 190
+##sequence-region CALVKZ010000022.1 1 23009
+CALVKZ010000022.1	RepeatMasker	dispersed_repeat	217	405	13.2	+	.	ID=5;Target "Motif:rnd-1_family-0" 1 189
+##sequence-region CALVKZ010000045.1 1 31994
+CALVKZ010000045.1	RepeatMasker	dispersed_repeat	6127	6316	 6.3	+	.	ID=6;Target "Motif:rnd-1_family-0" 1 190
+CALVKZ010000045.1	RepeatMasker	dispersed_repeat	12770	12954	 9.7	-	.	ID=7;Target "Motif:rnd-1_family-0" 1 190
+CALVKZ010000045.1	RepeatMasker	dispersed_repeat	26571	26753	 9.3	-	.	ID=8;Target "Motif:rnd-1_family-0" 1 190
+##sequence-region CALVKZ010000057.1 1 31795
+CALVKZ010000057.1	RepeatMasker	dispersed_repeat	5132	5321	 6.8	+	.	ID=9;Target "Motif:rnd-1_family-0" 1 190
+##sequence-region CALVKZ010000063.1 1 26810
+CALVKZ010000063.1	RepeatMasker	dispersed_repeat	19054	19242	 9.5	+	.	ID=10;Target "Motif:rnd-1_family-0" 1 190
+##sequence-region CALVKZ010000076.1 1 62826
+CALVKZ010000076.1	RepeatMasker	dispersed_repeat	7224	7404	12.2	-	.	ID=11;Target "Motif:rnd-1_family-0" 1 190
+##sequence-region CALVKZ010000077.1 1 79753
+CALVKZ010000077.1	RepeatMasker	dispersed_repeat	22814	23003	10.5	-	.	ID=12;Target "Motif:rnd-1_family-0" 1 190
+##sequence-region CALVKZ010000079.1 1 91383
+CALVKZ010000079.1	RepeatMasker	dispersed_repeat	38718	38895	10.7	-	.	ID=13;Target "Motif:rnd-1_family-0" 1 190
+##sequence-region CALVKZ010000092.1 1 25028
+CALVKZ010000092.1	RepeatMasker	dispersed_repeat	1551	1739	10.6	+	.	ID=14;Target "Motif:rnd-1_family-0" 1 190
+##sequence-region CALVKZ010000093.1 1 58792
+CALVKZ010000093.1	RepeatMasker	dispersed_repeat	1857	2044	10.6	-	.	ID=15;Target "Motif:rnd-1_family-0" 1 190
+##sequence-region CALVKZ010000096.1 1 116228
+CALVKZ010000096.1	RepeatMasker	dispersed_repeat	111900	112087	10.1	-	.	ID=16;Target "Motif:rnd-1_family-0" 1 190

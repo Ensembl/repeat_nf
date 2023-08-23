@@ -1,0 +1,2090 @@
+533 11.65 0.00 3.49 VHLK02000051.1 414 502 (59) rnd-1_family-0#Unknown 4 89 (3) m_b3s001i0
+
+  VHLK02000051.        414 GACCCAAATCAGGGACCTAGTTCTGGCTCTGGAGGTGAAGACCAAGACCC 463
+                                  i       i i     ?  i         --  -i        
+  rnd-1_family-          4 GACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGT--AG-TCAAGACCC 50
+
+  VHLK02000051.        464 AGGTCAAGGATCAAGTTCAGGCTCTGGGGGTGGTCAAGA 502
+                            i    i     v     ?  i     i           
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGA 89
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 13.42
+CpG sites = 9, Kimura (unadjusted) = 13.42
+Transitions / transversions = 9.00 (9/1)
+Gap_init rate = 0.03 (3 / 88), avg. gap size = 1.00 (3 / 3)
+
+599 10.91 0.00 6.52 VHLK02000051.1 456 553 (8) rnd-1_family-0#Unknown 1 92 (0) m_b3s001i1
+
+  VHLK02000051.        456 CAAGACCCAGGTCAAGGATCAAGTTCAGGCTCTGGGGGTGGTCAAGAACA 505
+                                    i    i     v     ?  i     i   i       ---
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGA--- 47
+
+  VHLK02000051.        506 AGACCCAAATCAGGGATCAAGTTCCAGTTCTGGAGGTAGTCAAGACCC 553
+                           ---     i         v     ?i           i          
+  rnd-1_family-         48 ---CCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 12.29
+CpG sites = 8, Kimura (unadjusted) = 12.29
+Transitions / transversions = 4.00 (8/2)
+Gap_init rate = 0.06 (6 / 97), avg. gap size = 1.00 (6 / 6)
+
+420 10.34 0.00 0.00 VHLK02000051.1 504 561 (0) rnd-1_family-0#Unknown 1 58 (34) m_b3s001i2
+
+  VHLK02000051.        504 CAAGACCCAAATCAGGGATCAAGTTCCAGTTCTGGAGGTAGTCAAGACCC 553
+                                     i         v     ?i                      
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000051.        554 AGGCCAAG 561
+                            i i  i 
+  rnd-1_family-         51 AAGTCAGG 58
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 11.61
+CpG sites = 5, Kimura (unadjusted) = 11.61
+Transitions / transversions = 5.00 (5/1)
+Gap_init rate = 0.00 (0 / 57), avg. gap size = 0.0 (0 / 0)
+
+665 9.89 0.00 0.00 VHLK02000091.1 742 832 (171963) rnd-1_family-0#Unknown 2 92 (0) m_b90s001i0
+
+  VHLK02000091.        742 AAAATACAAGTCAAGGATCTAGTTCAGGTTCTGGAGGTAGTCAAGACCCA 791
+                             i iv       i     i     ?                        
+  rnd-1_family-          2 AAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCCA 51
+
+  VHLK02000091.        792 AGTCACGGATCTAGTTCTGGTTCTGGAGGTGGTGAAGATCC 832
+                                v     i     ?               v    i  
+  rnd-1_family-         52 AGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 10.97
+CpG sites = 6, Kimura (unadjusted) = 10.97
+Transitions / transversions = 2.00 (6/3)
+Gap_init rate = 0.00 (0 / 90), avg. gap size = 0.0 (0 / 0)
+
+630 8.70 0.00 3.26 VHLK02000091.1 783 877 (171918) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i1
+
+  VHLK02000091.        783 CAAGACCCAAGTCACGGATCTAGTTCTGGTTCTGGAGGTGGTGAAGATCC 832
+                                         v     i     ?            i  v    i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.        833 AAATCAGGGATCTAGTTCAGGTTCTGGAGGTGAAGGACAAGACCC 877
+                             i         i     ?            ---  v        
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGT---GGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 9.53
+CpG sites = 5, Kimura (unadjusted) = 9.53
+Transitions / transversions = 1.67 (5/3)
+Gap_init rate = 0.03 (3 / 94), avg. gap size = 1.00 (3 / 3)
+
+621 10.87 0.00 0.00 VHLK02000091.1 870 961 (171834) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i2
+
+  VHLK02000091.        870 CAAGACCCAAGTCACGGATCTAGTTCTGGCTCTGGAGGTGGTCAAGACCC 919
+                                         v     i     ?  i         i          
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.        920 ATCTCAGGGATCTAGTTCAGGTTCTGGAGGTGGCGAAGATCC 961
+                            vv         i     ?              iv    i  
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 12.11
+CpG sites = 6, Kimura (unadjusted) = 12.11
+Transitions / transversions = 1.50 (6/4)
+Gap_init rate = 0.00 (0 / 91), avg. gap size = 0.0 (0 / 0)
+
+600 13.04 0.00 0.00 VHLK02000091.1 912 1003 (171792) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i3
+
+  VHLK02000091.        912 CAAGACCCATCTCAGGGATCTAGTTCAGGTTCTGGAGGTGGCGAAGATCC 961
+                                    vv         i     ?            i iv    i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.        962 AAATCAGGGATCCAGCTCTGGTTCTGGAGGTAGTGAAGATCC 1003
+                             i            i  ?            i  v    i  
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 14.89
+CpG sites = 8, Kimura (unadjusted) = 14.89
+Transitions / transversions = 2.00 (8/4)
+Gap_init rate = 0.00 (0 / 91), avg. gap size = 0.0 (0 / 0)
+
+611 9.64 0.00 0.00 VHLK02000091.1 955 1037 (171758) rnd-1_family-0#Unknown 2 84 (8) m_b90s001i4
+
+  VHLK02000091.        955 AAGATCCAAATCAGGGATCCAGCTCTGGTTCTGGAGGTAGTGAAGATCCA 1004
+                               i    i            i  ?               v    i   
+  rnd-1_family-          2 AAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCCA 51
+
+  VHLK02000091.       1005 AATCAGGGATCCAGCTCAGGTTCTGGAAGTGGT 1037
+                            i            i  ?         i     
+  rnd-1_family-         52 AGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGT 84
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 10.86
+CpG sites = 7, Kimura (unadjusted) = 10.86
+Transitions / transversions = 7.00 (7/1)
+Gap_init rate = 0.00 (0 / 82), avg. gap size = 0.0 (0 / 0)
+
+402 16.38 0.00 6.52 VHLK02000091.1 1047 1144 (171651) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i5
+
+  VHLK02000091.       1047 CAAGATCCAGGTCAGGGATCCAGCTCAGAAGGTAGTCAAGACCCAGGCCA 1096
+                                i   i             i  ? ---  --  vi  vvi  -i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNG---GT--TCTGGAGGTAG-TCA 44
+
+  VHLK02000091.       1097 AGACCCAAGCCAAGGATCCAGCTCAGGTTCTGGAGGTGGCGAAGATCC 1144
+                                    i  i        i  ?              iv    i  
+  rnd-1_family-         45 AGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 19.37
+CpG sites = 11, Kimura (unadjusted) = 19.37
+Transitions / transversions = 2.75 (11/4)
+Gap_init rate = 0.06 (6 / 97), avg. gap size = 1.00 (6 / 6)
+
+579 14.13 0.00 0.00 VHLK02000091.1 1095 1186 (171609) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i6
+
+  VHLK02000091.       1095 CAAGACCCAAGCCAAGGATCCAGCTCAGGTTCTGGAGGTGGCGAAGATCC 1144
+                                      i  i        i  ?            i iv    i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       1145 AAATCAGGGATCTAGTTCAGGTTCTGGTGGTGGCGAAGATCC 1186
+                             i         i     ?        v     iv    i  
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 16.48
+CpG sites = 10, Kimura (unadjusted) = 16.48
+Transitions / transversions = 3.33 (10/3)
+Gap_init rate = 0.00 (0 / 91), avg. gap size = 0.0 (0 / 0)
+
+585 11.04 0.00 6.59 VHLK02000091.1 1138 1234 (171561) rnd-1_family-0#Unknown 2 92 (0) m_b90s001i7
+
+  VHLK02000091.       1138 AAGATCCAAATCAGGGATCTAGTTCAGGTTCTGGTGGTGGCGAAGATCCA 1187
+                               i    i         i     ?        v   i iv    i   
+  rnd-1_family-          2 AAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCCA 51
+
+  VHLK02000091.       1188 AATCAGGGATCCAGTTCCGGTTCTGGCTCAGGAGGTAGTCAAGACCC 1234
+                            i               ?      ------      i          
+  rnd-1_family-         52 AGTCAGGGATCCAGTTCNGGTTCT------GGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 12.45
+CpG sites = 8, Kimura (unadjusted) = 12.45
+Transitions / transversions = 4.00 (8/2)
+Gap_init rate = 0.06 (6 / 96), avg. gap size = 1.00 (6 / 6)
+
+640 3.35 0.00 13.19 VHLK02000091.1 1180 1282 (171513) rnd-1_family-0#Unknown 2 92 (0) m_b90s001i8
+
+  VHLK02000091.       1180 AAGATCCAAATCAGGGATCCAGTTCCGGTTCTGGCTCAGGAGGTAGTCAA 1229
+                               i    i               ?        ------          
+  rnd-1_family-          2 AAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGG------AGGTAGTCAA 45
+
+  VHLK02000091.       1230 GACCCAAGTCAGGGATCCAGTTCCGGTTCTGGCTCAGGAGGTAGTCAAGA 1279
+                                                  ?      ------      i       
+  rnd-1_family-         46 GACCCAAGTCAGGGATCCAGTTCNGGTTCT------GGAGGTGGTCAAGA 89
+
+  VHLK02000091.       1280 CCC 1282
+                              
+  rnd-1_family-         90 CCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 3.49
+CpG sites = 3, Kimura (unadjusted) = 3.49
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.12 (12 / 102), avg. gap size = 1.00 (12 / 12)
+
+634 4.43 0.00 13.04 VHLK02000091.1 1227 1330 (171465) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i9
+
+  VHLK02000091.       1227 CAAGACCCAAGTCAGGGATCCAGTTCCGGTTCTGGCTCAGGAGGTAGTCA 1276
+                                                     ?        ------         
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGG------AGGTAGTCA 44
+
+  VHLK02000091.       1277 AGACCCAGGTCAAGGATCTAGTTCTGGCTCTGGTTCTGGAGGTAGTCAAG 1326
+                                  i    i     i   ------  ?            i      
+  rnd-1_family-         45 AGACCCAAGTCAGGGATCCAGT------TCNGGTTCTGGAGGTGGTCAAG 88
+
+  VHLK02000091.       1327 ACCC 1330
+                               
+  rnd-1_family-         89 ACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 4.65
+CpG sites = 4, Kimura (unadjusted) = 4.65
+Transitions / transversions = 1.00 (4/0)
+Gap_init rate = 0.12 (12 / 103), avg. gap size = 1.00 (12 / 12)
+
+513 6.99 0.00 26.09 VHLK02000091.1 1275 1390 (171405) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i10
+
+  VHLK02000091.       1275 CAAGACCCAGGTCAAGGATCTAGTTCTGGCTCTGGTTCTGGAGGTAGTCA 1324
+                                    i    i     i     ?  ------               
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGG------TTCTGGAGGTAGTCA 44
+
+  VHLK02000091.       1325 AGACCCAAGCCAAGATCCAAGCCAGGGATCTAGTTCTGGCTCTGGTTCTG 1374
+                               ------------     i        i   ------  ?       
+  rnd-1_family-         45 AGAC------------CCAAGTCAGGGATCCAGT------TCNGGTTCTG 76
+
+  VHLK02000091.       1375 GAGGTAGTCAAGACCC 1390
+                                i          
+  rnd-1_family-         77 GAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 7.16
+CpG sites = 6, Kimura (unadjusted) = 7.16
+Transitions / transversions = 1.00 (6/0)
+Gap_init rate = 0.21 (24 / 115), avg. gap size = 1.00 (24 / 24)
+
+629 5.49 0.00 9.78 VHLK02000091.1 1335 1435 (171360) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i11
+
+  VHLK02000091.       1335 CAAGATCCAAGCCAGGGATCTAGTTCTGGCTCTGGTTCTGGAGGTAGTCA 1384
+                                i     i        i     ?  ------               
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGG------TTCTGGAGGTAGTCA 44
+
+  VHLK02000091.       1385 AGACCCAAGTCAGGGATCTAGTTCAGGTTCTGGAGGTGAAGGACAAGACC 1434
+                                             i     ?            ---  v       
+  rnd-1_family-         45 AGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGT---GGTCAAGACC 91
+
+  VHLK02000091.       1435 C 1435
+                            
+  rnd-1_family-         92 C 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 5.83
+CpG sites = 4, Kimura (unadjusted) = 5.83
+Transitions / transversions = 4.00 (4/1)
+Gap_init rate = 0.09 (9 / 100), avg. gap size = 1.00 (9 / 9)
+
+624 5.53 0.00 13.04 VHLK02000091.1 1428 1531 (171264) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i12
+
+  VHLK02000091.       1428 CAAGACCCAAGTCAGGGATCCAGTTCCGGTTCTGGCTCAGGAGGTAGTCA 1477
+                                                     ?        ------         
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGG------AGGTAGTCA 44
+
+  VHLK02000091.       1478 AGACCCAGGTCAAGGATTTAGTTCTGGCTCTGGTTCTGGAGGTAGTCAAG 1527
+                                  i    i    ii   ------  ?            i      
+  rnd-1_family-         45 AGACCCAAGTCAGGGATCCAGT------TCNGGTTCTGGAGGTGGTCAAG 88
+
+  VHLK02000091.       1528 ACCC 1531
+                               
+  rnd-1_family-         89 ACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 5.89
+CpG sites = 5, Kimura (unadjusted) = 5.89
+Transitions / transversions = 1.00 (5/0)
+Gap_init rate = 0.12 (12 / 103), avg. gap size = 1.00 (12 / 12)
+
+626 8.73 0.00 6.52 VHLK02000091.1 1476 1573 (171222) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i13
+
+  VHLK02000091.       1476 CAAGACCCAGGTCAAGGATTTAGTTCTGGCTCTGGTTCTGGAGGTAGTCA 1525
+                                    i    i    ii     ?  ------               
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGG------TTCTGGAGGTAGTCA 44
+
+  VHLK02000091.       1526 AGACCCAAGTCACGGATCAAGTTCTGGCTCTGGAGGTAGTCAAGACCC 1573
+                                       v     v     ?  i         i          
+  rnd-1_family-         45 AGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 9.59
+CpG sites = 6, Kimura (unadjusted) = 9.59
+Transitions / transversions = 3.00 (6/2)
+Gap_init rate = 0.06 (6 / 97), avg. gap size = 1.00 (6 / 6)
+
+633 6.53 0.00 3.26 VHLK02000091.1 1524 1618 (171177) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i14
+
+  VHLK02000091.       1524 CAAGACCCAAGTCACGGATCAAGTTCTGGCTCTGGAGGTAGTCAAGACCC 1573
+                                         v     v     ?  i                    
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       1574 AGGTCAGGGATCCAGCTCAGGTTCTGGAGGTGAAGGCCAAGACCC 1618
+                            i             i  ?            ---  i        
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGT---GGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 7.03
+CpG sites = 4, Kimura (unadjusted) = 7.03
+Transitions / transversions = 2.00 (4/2)
+Gap_init rate = 0.03 (3 / 94), avg. gap size = 1.00 (3 / 3)
+
+582 10.88 0.00 3.26 VHLK02000091.1 1566 1660 (171135) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i15
+
+  VHLK02000091.       1566 CAAGACCCAGGTCAGGGATCCAGCTCAGGTTCTGGAGGTGAAGGCCAAGA 1615
+                                    i             i  ?            i--- i     
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTA---GTCAAGA 47
+
+  VHLK02000091.       1616 CCCAGGCCAAGGATCCAGCTCAGGTTCTGGAGGTAGTCAAGATCC 1660
+                               i i  i        i  ?            i       i  
+  rnd-1_family-         48 CCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 12.57
+CpG sites = 10, Kimura (unadjusted) = 12.57
+Transitions / transversions = 1.00 (10/0)
+Gap_init rate = 0.03 (3 / 94), avg. gap size = 1.00 (3 / 3)
+
+651 10.87 0.00 0.00 VHLK02000091.1 1611 1702 (171093) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i16
+
+  VHLK02000091.       1611 CAAGACCCAGGCCAAGGATCCAGCTCAGGTTCTGGAGGTAGTCAAGATCC 1660
+                                    i i  i        i  ?                    i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       1661 AAACCAAGGATCCAGCTCAGGTTCTGGAGGTGGTCAAGATCC 1702
+                             ii  i        i  ?                    i  
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 12.57
+CpG sites = 10, Kimura (unadjusted) = 12.57
+Transitions / transversions = 1.00 (10/0)
+Gap_init rate = 0.00 (0 / 91), avg. gap size = 0.0 (0 / 0)
+
+569 13.18 1.09 1.09 VHLK02000091.1 1653 1744 (171051) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i17
+
+  VHLK02000091.       1653 CAAGATCCAAACCAAGGATCCAGCTCAGGTTCTGGAGGTGGTCAAGATCC 1702
+                                i    ii  i        i  ?            i       i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       1703 AAGCCA-AGATCCAAGTTCTGGCTCTGGAGGTAGTCAAGATCC 1744
+                              i  -i     -     ?  i         i       i  
+  rnd-1_family-         51 AAGTCAGGGATCC-AGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 15.71
+CpG sites = 12, Kimura (unadjusted) = 15.71
+Transitions / transversions = 1.00 (12/0)
+Gap_init rate = 0.02 (2 / 91), avg. gap size = 1.00 (2 / 2)
+
+612 10.00 1.10 1.10 VHLK02000091.1 1695 1785 (171010) rnd-1_family-0#Unknown 1 91 (1) m_b90s001i18
+
+  VHLK02000091.       1695 CAAGATCCAAGCCAAG-ATCCAAGTTCTGGCTCTGGAGGTAGTCAAGATC 1743
+                                i     i  i -     -    ?  i                 i 
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCA-GTTCNGGTTCTGGAGGTAGTCAAGACC 49
+
+  VHLK02000091.       1744 CAAATCAGGGATCCAGCTCAGGTTCTGGAGGTAGTCAAGATC 1785
+                              i            i  ?            i       i 
+  rnd-1_family-         50 CAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACC 91
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 11.44
+CpG sites = 9, Kimura (unadjusted) = 11.44
+Transitions / transversions = 1.00 (9/0)
+Gap_init rate = 0.02 (2 / 90), avg. gap size = 1.00 (2 / 2)
+
+578 13.09 0.00 6.52 VHLK02000091.1 1737 1834 (170961) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i19
+
+  VHLK02000091.       1737 CAAGATCCAAATCAGGGATCCAGCTCAGGTTCTGGAGGTAGTCAAGATCA 1786
+                                i    i            i  ?                  -----
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAA----- 45
+
+  VHLK02000091.       1787 TGATCCGAGCCAAGGATCTAGTTCTGGCTCTGGAGGCAGTCAAGATCC 1834
+                           -  i  i  i  i     i     ?  i        ii       i  
+  rnd-1_family-         46 -GACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 15.51
+CpG sites = 12, Kimura (unadjusted) = 15.51
+Transitions / transversions = 1.00 (12/0)
+Gap_init rate = 0.06 (6 / 97), avg. gap size = 1.00 (6 / 6)
+
+615 14.13 0.00 0.00 VHLK02000091.1 1785 1876 (170919) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i20
+
+  VHLK02000091.       1785 CATGATCCGAGCCAAGGATCTAGTTCTGGCTCTGGAGGCAGTCAAGATCC 1834
+                             v  i  i  i  i     i     ?  i        i        i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       1835 AAATCAGGGATCCAGCTCAGGTTCTGGAGGTGATCAAGATCC 1876
+                             i            i  ?             i      i  
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 16.83
+CpG sites = 12, Kimura (unadjusted) = 16.83
+Transitions / transversions = 12.00 (12/1)
+Gap_init rate = 0.00 (0 / 91), avg. gap size = 0.0 (0 / 0)
+
+569 11.63 6.98 0.00 VHLK02000091.1 1827 1912 (170883) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i21
+
+  VHLK02000091.       1827 CAAGATCCAAATCAGGGATCCAGCTCAGGTTCTGGAGGTGATCAAGATCC 1876
+                                i    i            i  ?            ii      i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       1877 AAACCAAGGATCCA------GTTCTGGAGGTGGTCAAGATCC 1912
+                             ii  i       ------                   i  
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 13.41
+CpG sites = 10, Kimura (unadjusted) = 13.41
+Transitions / transversions = 1.00 (10/0)
+Gap_init rate = 0.01 (1 / 85), avg. gap size = 6.00 (6 / 1)
+
+390 13.75 2.44 2.44 VHLK02000091.1 1903 1984 (170811) rnd-1_family-0#Unknown 11 92 (0) m_b90s001i22
+
+  VHLK02000091.       1903 GTCAAG-ATCCAAGTTCTGGCTCAGGAGGTGGCGAAGATCCAAGCCAAG- 1950
+                               i -     -    ?  i  v      i iv    i     i  i -
+  rnd-1_family-         11 GTCAGGGATCCA-GTTCNGGTTCTGGAGGTAGTCAAGACCCAAGTCAGGG 59
+
+  VHLK02000091.       1951 ATCCAAGTTCTGGCTCTGGAGGTAGTCAAGACCC 1984
+                                -    ?  i         i          
+  rnd-1_family-         60 ATCCA-GTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 16.13
+CpG sites = 9, Kimura (unadjusted) = 16.13
+Transitions / transversions = 4.50 (9/2)
+Gap_init rate = 0.05 (4 / 81), avg. gap size = 1.00 (4 / 4)
+
+596 10.00 1.10 1.10 VHLK02000091.1 1936 2026 (170769) rnd-1_family-0#Unknown 2 92 (0) m_b90s001i23
+
+  VHLK02000091.       1936 AAGATCCAAGCCAAG-ATCCAAGTTCTGGCTCTGGAGGTAGTCAAGACCC 1984
+                               i     i  i -     -    ?  i                    
+  rnd-1_family-          2 AAGACCCAAGTCAGGGATCCA-GTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       1985 AAGTCAGGGATCTAGTTCAGGTTCTGGAGGTAGCGAAGATCC 2026
+                                       i     ?            i iv    i  
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 11.31
+CpG sites = 8, Kimura (unadjusted) = 11.31
+Transitions / transversions = 8.00 (8/1)
+Gap_init rate = 0.02 (2 / 90), avg. gap size = 1.00 (2 / 2)
+
+651 10.87 0.00 0.00 VHLK02000091.1 1977 2068 (170727) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i24
+
+  VHLK02000091.       1977 CAAGACCCAAGTCAGGGATCTAGTTCAGGTTCTGGAGGTAGCGAAGATCC 2026
+                                               i     ?              iv    i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       2027 GAGCCAAGGATCCAGTTCTGGCTCTGGAGGTAGTCAAGATCC 2068
+                           i  i  i           ?  i         i       i  
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 12.42
+CpG sites = 9, Kimura (unadjusted) = 12.42
+Transitions / transversions = 9.00 (9/1)
+Gap_init rate = 0.00 (0 / 91), avg. gap size = 0.0 (0 / 0)
+
+623 12.22 0.00 0.00 VHLK02000091.1 2020 2109 (170686) rnd-1_family-0#Unknown 2 91 (1) m_b90s001i25
+
+  VHLK02000091.       2020 AAGATCCGAGCCAAGGATCCAGTTCTGGCTCTGGAGGTAGTCAAGATCCA 2069
+                               i  i  i  i           ?  i                 i   
+  rnd-1_family-          2 AAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCCA 51
+
+  VHLK02000091.       2070 AGACAGGGATCCAGCTCAGGTTCTGGAAGTAGTCAAGATC 2109
+                             v           i  ?         i  i       i 
+  rnd-1_family-         52 AGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACC 91
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 14.21
+CpG sites = 10, Kimura (unadjusted) = 14.21
+Transitions / transversions = 10.00 (10/1)
+Gap_init rate = 0.00 (0 / 89), avg. gap size = 0.0 (0 / 0)
+
+530 9.88 0.00 9.78 VHLK02000091.1 2061 2161 (170634) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i26
+
+  VHLK02000091.       2061 CAAGATCCAAGACAGGGATCCAGCTCAGGTTCTGGAAGTAGTCAAGATCA 2110
+                                i     v           i  ?         i    ------   
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAG------TCA 44
+
+  VHLK02000091.       2111 AGACCCAGGACAAGGATCCAGTTCTGGTTCTGGTGGTGAAGGACAAGACC 2160
+                                  i v  i           ?        v   ---  v       
+  rnd-1_family-         45 AGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGT---GGTCAAGACC 91
+
+  VHLK02000091.       2161 C 2161
+                            
+  rnd-1_family-         92 C 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 10.78
+CpG sites = 5, Kimura (unadjusted) = 10.78
+Transitions / transversions = 1.25 (5/4)
+Gap_init rate = 0.09 (9 / 100), avg. gap size = 1.00 (9 / 9)
+
+472 13.09 0.00 6.52 VHLK02000091.1 2109 2206 (170589) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i27
+
+  VHLK02000091.       2109 CAAGACCCAGGACAAGGATCCAGTTCTGGTTCTGGTGGTGAAGGACAAGA 2158
+                                    i v  i           ?        v   i--- v     
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTA---GTCAAGA 47
+
+  VHLK02000091.       2159 CCCAGGCCAAGGATCCAGCTCAGGTTCTGCAGGTGAAGGCCAAGACCC 2206
+                               i i  i        i  ?       v    ---  i        
+  rnd-1_family-         48 CCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGT---GGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 14.89
+CpG sites = 8, Kimura (unadjusted) = 14.89
+Transitions / transversions = 2.00 (8/4)
+Gap_init rate = 0.06 (6 / 97), avg. gap size = 1.00 (6 / 6)
+
+436 14.61 3.26 3.26 VHLK02000091.1 2154 2245 (170550) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i28
+
+  VHLK02000091.       2154 CAAGACCCAGGCCAAGGATCCAGCTCAGGTTCTGCAGGTGAAGGCCAAGA 2203
+                                    i i  i        i  ?       v    i--- i     
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTA---GTCAAGA 47
+
+  VHLK02000091.       2204 CCCATCTCAGGGATCTAGCTCAGGTTCTGGA---GAACAAGACCC 2245
+                               vv         i  i  ?         --- iv        
+  rnd-1_family-         48 CCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 16.99
+CpG sites = 9, Kimura (unadjusted) = 16.99
+Transitions / transversions = 2.25 (9/4)
+Gap_init rate = 0.04 (4 / 91), avg. gap size = 1.50 (6 / 4)
+
+566 14.13 0.00 0.00 VHLK02000091.1 2238 2329 (170466) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i29
+
+  VHLK02000091.       2238 CAAGACCCAAATCAGGGATCTAGCTCAGGTTCTGGAGGAGAACAAGACCC 2287
+                                     i         i  i  ?           viiv        
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       2288 AAATCAGGGATCTAGCTCAGGTTCTGGAGGAGAACAAGACCC 2329
+                             i         i  i  ?           v iv        
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 16.34
+CpG sites = 9, Kimura (unadjusted) = 16.34
+Transitions / transversions = 2.25 (9/4)
+Gap_init rate = 0.00 (0 / 91), avg. gap size = 0.0 (0 / 0)
+
+493 15.66 0.00 0.00 VHLK02000091.1 2280 2362 (170433) rnd-1_family-0#Unknown 1 83 (9) m_b90s001i30
+
+  VHLK02000091.       2280 CAAGACCCAAATCAGGGATCTAGCTCAGGTTCTGGAGGAGAACAAGACCC 2329
+                                     i         i  i  ?           viiv        
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       2330 AAGCCAAGGATCCAGTTCTGGCCCTGGTGATGG 2362
+                              i  i           ?  ii    v i   
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGG 83
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 18.62
+CpG sites = 10, Kimura (unadjusted) = 18.62
+Transitions / transversions = 3.33 (10/3)
+Gap_init rate = 0.00 (0 / 82), avg. gap size = 0.0 (0 / 0)
+
+530 12.30 0.00 13.19 VHLK02000091.1 2638 2740 (170055) rnd-1_family-0#Unknown 2 92 (0) m_b90s001i31
+
+  VHLK02000091.       2638 AGGACCCAAATCAGGGATCCAGTTCTGGTTCTGGAGGAGATCAAGACCCA 2687
+                            i       i               ?           vii          
+  rnd-1_family-          2 AAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCCA 51
+
+  VHLK02000091.       2688 AGCCAAGATCCAAATCAGGGATCTAGCTCTGGTTCTGGAGGTATCCAAGA 2737
+                             ------------         i  i  ?            ivi     
+  rnd-1_family-         52 AG------------TCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGA 89
+
+  VHLK02000091.       2738 TCC 2740
+                           i  
+  rnd-1_family-         90 CCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 13.88
+CpG sites = 9, Kimura (unadjusted) = 13.88
+Transitions / transversions = 4.50 (9/2)
+Gap_init rate = 0.12 (12 / 102), avg. gap size = 1.00 (12 / 12)
+
+583 13.06 0.00 3.26 VHLK02000091.1 2691 2785 (170010) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i32
+
+  VHLK02000091.       2691 CAAGATCCAAATCAGGGATCTAGCTCTGGTTCTGGAGGTATCCAAGATCC 2740
+                                i    i         i  i  ?             vi     i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       2741 GAGCCAAGGATTCAGTTCCGGTTCTGGAGGTGAAGGCCAAGACCC 2785
+                           i  i  i    i      ?            ---  i        
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGT---GGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 15.32
+CpG sites = 11, Kimura (unadjusted) = 15.32
+Transitions / transversions = 11.00 (11/1)
+Gap_init rate = 0.03 (3 / 94), avg. gap size = 1.00 (3 / 3)
+
+542 15.24 0.00 3.26 VHLK02000091.1 2733 2827 (169968) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i33
+
+  VHLK02000091.       2733 CAAGATCCGAGCCAAGGATTCAGTTCCGGTTCTGGAGGTGAAGGCCAAGA 2782
+                                i  i  i  i    i      ?            i--- i     
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTA---GTCAAGA 47
+
+  VHLK02000091.       2783 CCCAGGCCAAGGATCTAGTTCAGGTTCTGGAGGAAGTCAAGATCC 2827
+                               i i  i     i     ?           vi       i  
+  rnd-1_family-         48 CCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 18.40
+CpG sites = 13, Kimura (unadjusted) = 18.40
+Transitions / transversions = 13.00 (13/1)
+Gap_init rate = 0.03 (3 / 94), avg. gap size = 1.00 (3 / 3)
+
+582 15.22 0.00 0.00 VHLK02000091.1 2778 2869 (169926) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i34
+
+  VHLK02000091.       2778 CAAGACCCAGGCCAAGGATCTAGTTCAGGTTCTGGAGGAAGTCAAGATCC 2827
+                                    i i  i     i     ?           v        i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       2828 GAGCCAAGAATTTAGTTCAGGTTCTGGGGGTGGTGAAGACCC 2869
+                           i  i  i i  ii     ?        i      v       
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 18.18
+CpG sites = 12, Kimura (unadjusted) = 18.18
+Transitions / transversions = 6.00 (12/2)
+Gap_init rate = 0.00 (0 / 91), avg. gap size = 0.0 (0 / 0)
+
+580 16.30 0.00 0.00 VHLK02000091.1 2820 2911 (169884) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i35
+
+  VHLK02000091.       2820 CAAGATCCGAGCCAAGAATTTAGTTCAGGTTCTGGGGGTGGTGAAGACCC 2869
+                                i  i  i  i i  ii     ?        i   i  v       
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       2870 AAGCCAAGGATCCAGCTCAGGTTCTGGAGGTAGTCAAGATCC 2911
+                              i  i        i  ?            i       i  
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 20.01
+CpG sites = 14, Kimura (unadjusted) = 20.01
+Transitions / transversions = 14.00 (14/1)
+Gap_init rate = 0.00 (0 / 91), avg. gap size = 0.0 (0 / 0)
+
+664 7.69 0.00 0.00 VHLK02000091.1 2863 2953 (169842) rnd-1_family-0#Unknown 2 92 (0) m_b90s001i36
+
+  VHLK02000091.       2863 AAGACCCAAGCCAAGGATCCAGCTCAGGTTCTGGAGGTAGTCAAGATCCA 2912
+                                     i  i        i  ?                    i   
+  rnd-1_family-          2 AAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCCA 51
+
+  VHLK02000091.       2913 AGTCACGGATCCAGCTCAGGTTCTGGAGGTGGTGAAGACCC 2953
+                                v        i  ?               v       
+  rnd-1_family-         52 AGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 8.39
+CpG sites = 5, Kimura (unadjusted) = 8.39
+Transitions / transversions = 2.50 (5/2)
+Gap_init rate = 0.00 (0 / 90), avg. gap size = 0.0 (0 / 0)
+
+574 8.84 0.00 13.04 VHLK02000091.1 2904 3007 (169788) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i37
+
+  VHLK02000091.       2904 CAAGATCCAAGTCACGGATCCAGCTCAGGTTCTGGAGGTGGTGAAGACCC 2953
+                                i        v        i  ?            -----------
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGT----------- 39
+
+  VHLK02000091.       2954 AAGCCAAGATCCAAGTCATGGATCTAGTTCAGGTTCTGGAGGTGGTGAAG 3003
+                           -  i     i        v     i     ?               v   
+  rnd-1_family-         40 -AGTCAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAG 88
+
+  VHLK02000091.       3004 ACCC 3007
+                               
+  rnd-1_family-         89 ACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 9.53
+CpG sites = 5, Kimura (unadjusted) = 9.53
+Transitions / transversions = 1.67 (5/3)
+Gap_init rate = 0.12 (12 / 103), avg. gap size = 1.00 (12 / 12)
+
+521 8.94 0.00 16.30 VHLK02000091.1 2958 3064 (169731) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i38
+
+  VHLK02000091.       2958 CAAGATCCAAGTCATGGATCTAGTTCAGGTTCTGGAGGTGGTGAAGACCC 3007
+                                i        v     i     ?            i  v       
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       3008 AAGCCAAGATCCAAATCAGGGATCTAGTTCAGGTTCTGGTGGTGAAGGAC 3057
+                              ------------         i     ?        v   ---  v 
+  rnd-1_family-         51 AAG------------TCAGGGATCCAGTTCNGGTTCTGGAGGT---GGTC 85
+
+  VHLK02000091.       3058 AAGACCC 3064
+                                  
+  rnd-1_family-         86 AAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 9.48
+CpG sites = 4, Kimura (unadjusted) = 9.48
+Transitions / transversions = 1.00 (4/4)
+Gap_init rate = 0.14 (15 / 106), avg. gap size = 1.00 (15 / 15)
+
+525 12.00 0.00 6.52 VHLK02000091.1 3012 3109 (169686) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i39
+
+  VHLK02000091.       3012 CAAGATCCAAATCAGGGATCTAGTTCAGGTTCTGGTGGTGAAGGACAAGA 3061
+                                i    i         i     ?        v   i--- v     
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTA---GTCAAGA 47
+
+  VHLK02000091.       3062 CCCAGGCCAAGGATCCAGCTCTGGTTCTGGAGGTGAAGGACAAGACCC 3109
+                               i i  i        i  ?            ---  v        
+  rnd-1_family-         48 CCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGT---GGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 13.58
+CpG sites = 8, Kimura (unadjusted) = 13.58
+Transitions / transversions = 2.67 (8/3)
+Gap_init rate = 0.06 (6 / 97), avg. gap size = 1.00 (6 / 6)
+
+567 7.68 0.00 9.78 VHLK02000091.1 3057 3157 (169638) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i40
+
+  VHLK02000091.       3057 CAAGACCCAGGCCAAGGATCCAGCTCTGGTTCTGGAGGTGAAGGACAAGA 3106
+                                    i i  i        i  ?            i--- v     
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTA---GTCAAGA 47
+
+  VHLK02000091.       3107 CCCAAGTCAGGGATCCAGTTCCGGTTCTGGCTCAGGAGGTAGTCAAGACC 3156
+                                                ?        ------    i         
+  rnd-1_family-         48 CCCAAGTCAGGGATCCAGTTCNGGTTCTGG------AGGTGGTCAAGACC 91
+
+  VHLK02000091.       3157 C 3157
+                            
+  rnd-1_family-         92 C 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 8.36
+CpG sites = 6, Kimura (unadjusted) = 8.36
+Transitions / transversions = 6.00 (6/1)
+Gap_init rate = 0.09 (9 / 100), avg. gap size = 1.00 (9 / 9)
+
+693 3.31 0.00 6.59 VHLK02000091.1 3102 3198 (169597) rnd-1_family-0#Unknown 1 91 (1) m_b90s001i41
+
+  VHLK02000091.       3102 CAAGACCCAAGTCAGGGATCCAGTTCCGGTTCTGGCTCAGGAGGTAGTCA 3151
+                                                     ?        ------         
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGG------AGGTAGTCA 44
+
+  VHLK02000091.       3152 AGACCCAAGTCAGGGATCCAGCTCAGGTTCTGGAGGTAGTCAAGATC 3198
+                                                i  ?            i       i 
+  rnd-1_family-         45 AGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACC 91
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 3.49
+CpG sites = 3, Kimura (unadjusted) = 3.49
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.06 (6 / 96), avg. gap size = 1.00 (6 / 6)
+
+579 10.91 0.00 6.52 VHLK02000091.1 3150 3247 (169548) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i42
+
+  VHLK02000091.       3150 CAAGACCCAAGTCAGGGATCCAGCTCAGGTTCTGGAGGTAGTCAAGATCA 3199
+                                                  i  ?                  -----
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAA----- 45
+
+  VHLK02000091.       3200 TGATCCGAGCCAAGGATCTAGTTCTGGCTCTGGAGGTGGCGAAGATCC 3247
+                           -  i  i  i  i     i     ?  i           iv    i  
+  rnd-1_family-         46 -GACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 12.42
+CpG sites = 9, Kimura (unadjusted) = 12.42
+Transitions / transversions = 9.00 (9/1)
+Gap_init rate = 0.06 (6 / 97), avg. gap size = 1.00 (6 / 6)
+
+504 16.32 0.00 3.26 VHLK02000091.1 3198 3292 (169503) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i43
+
+  VHLK02000091.       3198 CATGATCCGAGCCAAGGATCTAGTTCTGGCTCTGGAGGTGGCGAAGATCC 3247
+                             v  i  i  i  i     i     ?  i         i iv    i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       3248 AAATCAGGGATCTAGTTCAGGTTCTGGTGGTGAAGGACAAGACCC 3292
+                             i         i     ?        v   ---  v        
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGT---GGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 19.37
+CpG sites = 11, Kimura (unadjusted) = 19.37
+Transitions / transversions = 2.75 (11/4)
+Gap_init rate = 0.03 (3 / 94), avg. gap size = 1.00 (3 / 3)
+
+517 12.14 0.00 6.59 VHLK02000091.1 3241 3337 (169458) rnd-1_family-0#Unknown 2 92 (0) m_b90s001i44
+
+  VHLK02000091.       3241 AAGATCCAAATCAGGGATCTAGTTCAGGTTCTGGTGGTGAAGGACAAGAC 3290
+                               i    i         i     ?        v   i--- v      
+  rnd-1_family-          2 AAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTA---GTCAAGAC 48
+
+  VHLK02000091.       3291 CCAGGCCAAGGATCCAGCTCTGGTTCTGGAGGTGAAGGACAAGACCC 3337
+                              i i  i        i  ?            ---  v        
+  rnd-1_family-         49 CCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGT---GGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 13.75
+CpG sites = 8, Kimura (unadjusted) = 13.75
+Transitions / transversions = 2.67 (8/3)
+Gap_init rate = 0.06 (6 / 96), avg. gap size = 1.00 (6 / 6)
+
+568 7.68 0.00 9.78 VHLK02000091.1 3285 3385 (169410) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i45
+
+  VHLK02000091.       3285 CAAGACCCAGGCCAAGGATCCAGCTCTGGTTCTGGAGGTGAAGGACAAGA 3334
+                                    i i  i        i  ?            ---i v     
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGT---AGTCAAGA 47
+
+  VHLK02000091.       3335 CCCAAGTCAGGGATCCAGTTCCGGTTCTGGCTCAGGAGGTGGTCAAGATC 3384
+                                                ?      ------              i 
+  rnd-1_family-         48 CCCAAGTCAGGGATCCAGTTCNGGTTCT------GGAGGTGGTCAAGACC 91
+
+  VHLK02000091.       3385 C 3385
+                            
+  rnd-1_family-         92 C 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 8.36
+CpG sites = 6, Kimura (unadjusted) = 8.36
+Transitions / transversions = 6.00 (6/1)
+Gap_init rate = 0.09 (9 / 100), avg. gap size = 1.00 (9 / 9)
+
+546 5.55 0.99 10.87 VHLK02000091.1 3330 3430 (169365) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i46
+
+  VHLK02000091.       3330 CAAGACCCAAGTCAGGGATCCAGTTCCGGTTCTGGCTCAGGAGGTGGTCA 3379
+                                                     ?        ------    i    
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGG------AGGTAGTCA 44
+
+  VHLK02000091.       3380 AGATCCAAGCCAAG-ATCCAAGTTCTGGTTCTGGAGGTGAAGGACAAGAC 3428
+                              i     i  i -     -    ?            ---  v      
+  rnd-1_family-         45 AGACCCAAGTCAGGGATCCA-GTTCNGGTTCTGGAGGT---GGTCAAGAC 90
+
+  VHLK02000091.       3429 CC 3430
+                             
+  rnd-1_family-         91 CC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 5.90
+CpG sites = 4, Kimura (unadjusted) = 5.90
+Transitions / transversions = 4.00 (4/1)
+Gap_init rate = 0.11 (11 / 100), avg. gap size = 1.00 (11 / 11)
+
+576 12.00 0.00 6.52 VHLK02000091.1 3423 3520 (169275) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i47
+
+  VHLK02000091.       3423 CAAGACCCAGGCCAAGGATCCAGCTCTGGTTCTGGAGGTGGTGAAGGCCA 3472
+                                    i i  i        i  ?            i  ------  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGT------CA 44
+
+  VHLK02000091.       3473 AGATCCGAGCCAAGGATCCAGTTCTGGTTCTGGAGGTAGTCAAGATCC 3520
+                              i  i  i  i           ?            i       i  
+  rnd-1_family-         45 AGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 14.02
+CpG sites = 11, Kimura (unadjusted) = 14.02
+Transitions / transversions = 1.00 (11/0)
+Gap_init rate = 0.06 (6 / 97), avg. gap size = 1.00 (6 / 6)
+
+689 9.78 0.00 0.00 VHLK02000091.1 3471 3562 (169233) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i48
+
+  VHLK02000091.       3471 CAAGATCCGAGCCAAGGATCCAGTTCTGGTTCTGGAGGTAGTCAAGATCC 3520
+                                i  i  i  i           ?                    i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       3521 AAATCAGGGATCCAGCTCAGGTTCTGGAGGTGATCAAGATCC 3562
+                             i            i  ?             i      i  
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 11.16
+CpG sites = 9, Kimura (unadjusted) = 11.16
+Transitions / transversions = 1.00 (9/0)
+Gap_init rate = 0.00 (0 / 91), avg. gap size = 0.0 (0 / 0)
+
+569 11.63 6.98 0.00 VHLK02000091.1 3513 3598 (169197) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i49
+
+  VHLK02000091.       3513 CAAGATCCAAATCAGGGATCCAGCTCAGGTTCTGGAGGTGATCAAGATCC 3562
+                                i    i            i  ?            ii      i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       3563 AAACCAAGGATCCA------GTTCTGGAGGTGGTCAAGATCC 3598
+                             ii  i       ------                   i  
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 13.41
+CpG sites = 10, Kimura (unadjusted) = 13.41
+Transitions / transversions = 1.00 (10/0)
+Gap_init rate = 0.01 (1 / 85), avg. gap size = 6.00 (6 / 1)
+
+390 13.75 2.44 2.44 VHLK02000091.1 3589 3670 (169125) rnd-1_family-0#Unknown 11 92 (0) m_b90s001i50
+
+  VHLK02000091.       3589 GTCAAG-ATCCAAGTTCTGGCTCAGGAGGTGGCGAAGATCCAAGCCAAG- 3636
+                               i -     -    ?  i  v      i iv    i     i  i -
+  rnd-1_family-         11 GTCAGGGATCCA-GTTCNGGTTCTGGAGGTAGTCAAGACCCAAGTCAGGG 59
+
+  VHLK02000091.       3637 ATCCAAGTTCTGGCTCTGGAGGTAGTCAAGACCC 3670
+                                -    ?  i         i          
+  rnd-1_family-         60 ATCCA-GTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 16.13
+CpG sites = 9, Kimura (unadjusted) = 16.13
+Transitions / transversions = 4.50 (9/2)
+Gap_init rate = 0.05 (4 / 81), avg. gap size = 1.00 (4 / 4)
+
+652 6.66 1.10 1.10 VHLK02000091.1 3622 3712 (169083) rnd-1_family-0#Unknown 2 92 (0) m_b90s001i51
+
+  VHLK02000091.       3622 AAGATCCAAGCCAAG-ATCCAAGTTCTGGCTCTGGAGGTAGTCAAGACCC 3670
+                               i     i  i -     -    ?  i                    
+  rnd-1_family-          2 AAGACCCAAGTCAGGGATCCA-GTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       3671 AAGTCAGGGATCTAGTTCAGGTTCTGGAGGTAGTCAAGACCC 3712
+                                       i     ?            i          
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 7.33
+CpG sites = 6, Kimura (unadjusted) = 7.33
+Transitions / transversions = 1.00 (6/0)
+Gap_init rate = 0.02 (2 / 90), avg. gap size = 1.00 (2 / 2)
+
+747 5.43 0.00 0.00 VHLK02000091.1 3663 3754 (169041) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i52
+
+  VHLK02000091.       3663 CAAGACCCAAGTCAGGGATCTAGTTCAGGTTCTGGAGGTAGTCAAGACCC 3712
+                                               i     ?                       
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       3713 AGGTCAAGGATCTAGTTCAGGTTCTGGAGGTAGTCAAGACCC 3754
+                            i    i     i     ?            i          
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 5.89
+CpG sites = 5, Kimura (unadjusted) = 5.89
+Transitions / transversions = 1.00 (5/0)
+Gap_init rate = 0.00 (0 / 91), avg. gap size = 0.0 (0 / 0)
+
+708 6.52 0.00 0.00 VHLK02000091.1 3705 3796 (168999) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i53
+
+  VHLK02000091.       3705 CAAGACCCAGGTCAAGGATCTAGTTCAGGTTCTGGAGGTAGTCAAGACCC 3754
+                                    i    i     i     ?                       
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       3755 AGGTCAGGGATCTAGTTCAGGTTCTGGAGGAGGTCAAGACCC 3796
+                            i          i     ?           v           
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 7.08
+CpG sites = 5, Kimura (unadjusted) = 7.08
+Transitions / transversions = 5.00 (5/1)
+Gap_init rate = 0.00 (0 / 91), avg. gap size = 0.0 (0 / 0)
+
+636 9.78 0.00 0.00 VHLK02000091.1 3747 3838 (168957) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i54
+
+  VHLK02000091.       3747 CAAGACCCAGGTCAGGGATCTAGTTCAGGTTCTGGAGGAGGTCAAGACCC 3796
+                                    i          i     ?           vi          
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       3797 AGGTCAGGGATCTAGTTCAGGTTCTGGAGGTGGCGAAGATCC 3838
+                            i          i     ?              iv    i  
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 10.92
+CpG sites = 7, Kimura (unadjusted) = 10.92
+Transitions / transversions = 3.50 (7/2)
+Gap_init rate = 0.00 (0 / 91), avg. gap size = 0.0 (0 / 0)
+
+537 13.18 1.09 1.09 VHLK02000091.1 3789 3880 (168915) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i55
+
+  VHLK02000091.       3789 CAAGACCCAGGTCAGGGATCTAGTTCAGGTTCTGGAGGTGGCGAAGATCC 3838
+                                    i          i     ?            i iv    i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       3839 AAGCCA-AGATCCAAGTTCTGGCTCTGGAGGTAGTGAAGATCC 3880
+                              i  -i     -     ?  i         i  v    i  
+  rnd-1_family-         51 AAGTCAGGGATCC-AGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 15.35
+CpG sites = 10, Kimura (unadjusted) = 15.35
+Transitions / transversions = 5.00 (10/2)
+Gap_init rate = 0.02 (2 / 91), avg. gap size = 1.00 (2 / 2)
+
+587 11.11 1.10 1.10 VHLK02000091.1 3832 3922 (168873) rnd-1_family-0#Unknown 2 92 (0) m_b90s001i56
+
+  VHLK02000091.       3832 AAGATCCAAGCCAAG-ATCCAAGTTCTGGCTCTGGAGGTAGTGAAGATCC 3880
+                               i     i  i -     -    ?  i            v    i  
+  rnd-1_family-          2 AAGACCCAAGTCAGGGATCCA-GTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       3881 AAATCAGGGATCTAGCTCAGGTTCTGGAGGTAGTCAAGACCC 3922
+                             i         i  i  ?            i          
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 12.74
+CpG sites = 9, Kimura (unadjusted) = 12.74
+Transitions / transversions = 9.00 (9/1)
+Gap_init rate = 0.02 (2 / 90), avg. gap size = 1.00 (2 / 2)
+
+707 7.69 0.00 0.00 VHLK02000091.1 3874 3964 (168831) rnd-1_family-0#Unknown 2 92 (0) m_b90s001i57
+
+  VHLK02000091.       3874 AAGATCCAAATCAGGGATCTAGCTCAGGTTCTGGAGGTAGTCAAGACCCA 3923
+                               i    i         i  i  ?                        
+  rnd-1_family-          2 AAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCCA 51
+
+  VHLK02000091.       3924 GGTCAGGGATCTAGTTCAGGTTCTGGAGGTAGTCAAGACCC 3964
+                           i          i     ?            i          
+  rnd-1_family-         52 AGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 8.56
+CpG sites = 7, Kimura (unadjusted) = 8.56
+Transitions / transversions = 1.00 (7/0)
+Gap_init rate = 0.00 (0 / 90), avg. gap size = 0.0 (0 / 0)
+
+706 6.52 0.00 0.00 VHLK02000091.1 3915 4006 (168789) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i58
+
+  VHLK02000091.       3915 CAAGACCCAGGTCAGGGATCTAGTTCAGGTTCTGGAGGTAGTCAAGACCC 3964
+                                    i          i     ?                       
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       3965 AGGTCAGGGATCTAGTTCAGGTTCTGGAGGAGGTCAAGATCC 4006
+                            i          i     ?           v        i  
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 7.08
+CpG sites = 5, Kimura (unadjusted) = 7.08
+Transitions / transversions = 5.00 (5/1)
+Gap_init rate = 0.00 (0 / 91), avg. gap size = 0.0 (0 / 0)
+
+621 10.99 0.00 0.00 VHLK02000091.1 3957 4047 (168748) rnd-1_family-0#Unknown 1 91 (1) m_b90s001i59
+
+  VHLK02000091.       3957 CAAGACCCAGGTCAGGGATCTAGTTCAGGTTCTGGAGGAGGTCAAGATCC 4006
+                                    i          i     ?           vi       i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       4007 AAGTCAGGGATCAAGTTCTGGTTCCGGAGGAGATCAAGATC 4047
+                                       v     ?     i     v i      i 
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACC 91
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 12.34
+CpG sites = 7, Kimura (unadjusted) = 12.34
+Transitions / transversions = 2.33 (7/3)
+Gap_init rate = 0.00 (0 / 90), avg. gap size = 0.0 (0 / 0)
+
+582 6.62 1.02 7.61 VHLK02000091.1 3999 4096 (168699) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i60
+
+  VHLK02000091.       3999 CAAGATCCAAGTCAGGGATCAAGTTCTGGTTCCGGAGG-AGATCAAGATC 4047
+                                i              v     ?     i     -  -------  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAG-------TC 43
+
+  VHLK02000091.       4048 AAGACCCAAGTCAGGGATCCAGTTCAGGTTCTGGAGGAGAACAAGACCC 4096
+                                                    ?           v iv        
+  rnd-1_family-         44 AAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 7.08
+CpG sites = 3, Kimura (unadjusted) = 7.08
+Transitions / transversions = 1.00 (3/3)
+Gap_init rate = 0.08 (8 / 97), avg. gap size = 1.00 (8 / 8)
+
+593 8.70 0.00 3.26 VHLK02000091.1 4047 4141 (168654) rnd-1_family-0#Unknown 1 92 (0) m_b90s001i61
+
+  VHLK02000091.       4047 CAAGACCCAAGTCAGGGATCCAGTTCAGGTTCTGGAGGAGAACAAGACCC 4096
+                                                     ?           viiv        
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000091.       4097 AAGTCAAGGATCCAGCTCAGGTTCTGGTGGTGAAGGACAAGACCC 4141
+                                 i        i  ?        v   ---  v        
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGT---GGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 9.48
+CpG sites = 4, Kimura (unadjusted) = 9.48
+Transitions / transversions = 1.00 (4/4)
+Gap_init rate = 0.03 (3 / 94), avg. gap size = 1.00 (3 / 3)
+
+436 15.27 6.82 3.30 VHLK02000091.1 4089 4176 (168619) rnd-1_family-0#Unknown 1 91 (1) m_b90s001i62
+
+  VHLK02000091.       4089 CAAGACCCAAGTCAAGGATCCAGCTCAGGTTCTGGTGGTGAAGGACAAGA 4138
+                                         i        i  ?        v   i--- v     
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTA---GTCAAGA 47
+
+  VHLK02000091.       4139 CCCAGGCCAAGGATCTA------GTTCTGAAGGTAGTCTAGATC 4176
+                               i i  i     i ------      i    i   v   i 
+  rnd-1_family-         48 CCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACC 91
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 17.85
+CpG sites = 10, Kimura (unadjusted) = 17.85
+Transitions / transversions = 3.33 (10/3)
+Gap_init rate = 0.05 (4 / 87), avg. gap size = 2.25 (9 / 4)
+
+327 8.93 1.75 1.75 VHLK02000062.1 1 57 (133388) rnd-1_family-0#Unknown 36 92 (0) m_b97s001i0
+
+  VHLK02000062.          1 AGGTAGTCAAGACCCAGGCCA-AGATCCAAGTTCTGGCTCGGGAGGTGGT 49
+                                           i i  -i     -     ?  i  v         
+  rnd-1_family-         36 AGGTAGTCAAGACCCAAGTCAGGGATCC-AGTTCNGGTTCTGGAGGTGGT 84
+
+  VHLK02000062.         50 CAAGACCC 57
+                                   
+  rnd-1_family-         85 CAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 9.86
+CpG sites = 4, Kimura (unadjusted) = 9.86
+Transitions / transversions = 4.00 (4/1)
+Gap_init rate = 0.04 (2 / 56), avg. gap size = 1.00 (2 / 2)
+
+429 13.33 2.17 2.17 VHLK02000062.1 8 99 (133346) rnd-1_family-0#Unknown 1 92 (0) m_b97s001i1
+
+  VHLK02000062.          8 CAAGACCCAGGCCAAG-ATCCAAGTTCTGGCTCGGGAGGTGGTCAAGACC 56
+                                    i i  i -     -    ?  i  v      i         
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCA-GTTCNGGTTCTGGAGGTAGTCAAGACC 49
+
+  VHLK02000062.         57 CAGGCCA-AGATCCAAGTTCTGGCTCGGGAGGTAGTCAAGACCC 99
+                             i i  -i     -     ?  i  v      i          
+  rnd-1_family-         50 CAAGTCAGGGATCC-AGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 15.55
+CpG sites = 10, Kimura (unadjusted) = 15.55
+Transitions / transversions = 5.00 (10/2)
+Gap_init rate = 0.04 (4 / 91), avg. gap size = 1.00 (4 / 4)
+
+535 12.09 1.09 1.09 VHLK02000062.1 50 141 (133304) rnd-1_family-0#Unknown 1 92 (0) m_b97s001i2
+
+  VHLK02000062.         50 CAAGACCCAGGCCAAG-ATCCAAGTTCTGGCTCGGGAGGTAGTCAAGACC 98
+                                    i i  i -     -    ?  i  v                
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCA-GTTCNGGTTCTGGAGGTAGTCAAGACC 49
+
+  VHLK02000062.         99 CAGGTCAAGGATCTAGTTCAGGTTCAGGAGGTGGTGAAGATCC 141
+                             i    i     i     ?     v         v    i  
+  rnd-1_family-         50 CAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 13.75
+CpG sites = 8, Kimura (unadjusted) = 13.75
+Transitions / transversions = 2.67 (8/3)
+Gap_init rate = 0.02 (2 / 91), avg. gap size = 1.00 (2 / 2)
+
+614 13.19 0.00 0.00 VHLK02000062.1 92 182 (133263) rnd-1_family-0#Unknown 1 91 (1) m_b97s001i3
+
+  VHLK02000062.         92 CAAGACCCAGGTCAAGGATCTAGTTCAGGTTCAGGAGGTGGTGAAGATCC 141
+                                    i    i     i     ?     v      i  v    i  
+  rnd-1_family-          1 CAAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAAGACCC 50
+
+  VHLK02000062.        142 AAATCAGGGATCTAGCTCTGGTTCTGGAGGTAGTCAAGATC 182
+                             i         i  i  ?            i       i 
+  rnd-1_family-         51 AAGTCAGGGATCCAGTTCNGGTTCTGGAGGTGGTCAAGACC 91
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 15.35
+CpG sites = 10, Kimura (unadjusted) = 15.35
+Transitions / transversions = 5.00 (10/2)
+Gap_init rate = 0.00 (0 / 90), avg. gap size = 0.0 (0 / 0)
+
+617 5.55 0.00 9.89 VHLK02000062.1 135 234 (133211) rnd-1_family-0#Unknown 2 92 (0) m_b97s001i4
+
+  VHLK02000062.        135 AAGATCCAAATCAGGGATCTAGCTCTGGTTCTGGAGGTAGTCAAGATCAA 184
+                               i    i         i  i  ?                  ------
+  rnd-1_family-          2 AAGACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGTAGTCAA------ 45
+
+  VHLK02000062.        185 GACCCAAGTCAGGGATCCAGTTCCGGTTCTGGAGGTGAAGGACAAGACCC 234
+                                                  ?            ---  v        
+  rnd-1_family-         46 GACCCAAGTCAGGGATCCAGTTCNGGTTCTGGAGGT---GGTCAAGACCC 92
+
+Matrix = 20p35g.matrix
+Kimura (with divCpGMod) = 5.90
+CpG sites = 4, Kimura (unadjusted) = 5.90
+Transitions / transversions = 4.00 (4/1)
+Gap_init rate = 0.09 (9 / 99), avg. gap size = 1.00 (9 / 9)
+
+541 7.93 0.97 14.29 VHLK02000026.1 79641 79743 (64) C rnd-1_family-0#Unknown (1) 91 1 m_b116s001i0
+
+  VHLK02000026.      79641 GATCTTGACTACCACCAGAACCAGAGCTGGATCCCTGACTTGGATCTTGA 79690
+                            i       i   v        ?  i                 i      
+C rnd-1_family-         91 GGTCTTGACCACCTCCAGAACCNGAACTGGATCCCTGACTTGGGTCTTGA 42
+
+  VHLK02000026.      79691 TCTTGATCT-CCTCCGGAACCTGAGCTGGAACTGGATCCCTGACTTGGAT 79739
+                           -------  -     i     ------?                    i 
+C rnd-1_family-         41 -------CTACCTCCAGAACC------NGAACTGGATCCCTGACTTGGGT 5
+
+  VHLK02000026.      79740 CTTG 79743
+                               
+C rnd-1_family-          4 CTTG 1
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 8.57
+CpG sites = 6, Kimura (unadjusted) = 8.57
+Transitions / transversions = 6.00 (6/1)
+Gap_init rate = 0.14 (14 / 102), avg. gap size = 1.00 (14 / 14)
+
+476 8.11 0.92 20.88 VHLK02000026.1 79689 79797 (10) C rnd-1_family-0#Unknown (1) 91 1 m_b116s001i1
+
+  VHLK02000026.      79689 GATCTTGATCTCCTCCGGAACCTGAGCTGGAACTGGATCCCTGACTTGGA 79738
+                            i      i v     i     ?  ------                  i
+C rnd-1_family-         91 GGTCTTGACCACCTCCAGAACCNGA------ACTGGATCCCTGACTTGGG 48
+
+  VHLK02000026.      79739 TCTTGATCTTGATCT-CCTCCGGAACCTGAGCTGGAACTGGATCCCTGAC 79787
+                                 -------  -     i     ?  ------              
+C rnd-1_family-         47 TCTTGA-------CTACCTCCAGAACCNGA------ACTGGATCCCTGAC 11
+
+  VHLK02000026.      79788 TTGGATCTTG 79797
+                               i     
+C rnd-1_family-         10 TTGGGTCTTG 1
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 8.57
+CpG sites = 6, Kimura (unadjusted) = 8.57
+Transitions / transversions = 6.00 (6/1)
+Gap_init rate = 0.19 (20 / 108), avg. gap size = 1.00 (20 / 20)
+
+294 19.99 4.82 3.57 VHLK02000092.1 16551 16633 (3127) C rnd-1_family-0#Unknown (8) 84 1 m_b123s001i0
+
+  VHLK02000092.      16551 ATCACCTCCCCTGAGCCAGAACTAGATGCTTGGCCTTGATC--AAC-ACC 16597
+                            i       v--  i  ?     i   v i  i i v i  --i  -   
+C rnd-1_family-         84 ACCACCTCCA--GAACCNGAACTGGATCCCTGACTTGGGTCTTGACTACC 37
+
+  VHLK02000092.      16598 TCCAGAACTAGAGACT-GATCCCTGGTCTGGATCTTG 16633
+                                   i?  -   -        iii   i     
+C rnd-1_family-         36 TCCAGAACCNGA-ACTGGATCCCTGACTTGGGTCTTG 1
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 25.25
+CpG sites = 13, Kimura (unadjusted) = 25.25
+Transitions / transversions = 4.33 (13/3)
+Gap_init rate = 0.07 (6 / 82), avg. gap size = 1.17 (7 / 6)
+
+285 16.46 1.14 17.11 VHLK02000092.1 16582 16669 (3091) C rnd-1_family-0#Unknown (1) 91 16 m_b123s001i1
+
+  VHLK02000092.      16582 GGCCTTGATCAACACCTCCAGAACTAGAGACT-GATCCCTGGTCTGGATC 16630
+                             i     i  ---          i?  -   -        iii   i  
+C rnd-1_family-         91 GGTCTTGACCA---CCTCCAGAACCNGA-ACTGGATCCCTGACTTGGGTC 46
+
+  VHLK02000092.      16631 TTGGCTTGGATCAACACCTCCTGAACCAGAACCAGAGCC 16669
+                              i  ---------      v     ?    ii  v  
+C rnd-1_family-         45 TTGACT---------ACCTCCAGAACCNGAACTGGATCC 16
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 19.34
+CpG sites = 10, Kimura (unadjusted) = 19.34
+Transitions / transversions = 5.00 (10/2)
+Gap_init rate = 0.16 (14 / 87), avg. gap size = 1.00 (14 / 14)
+
+245 14.41 2.30 20.27 VHLK02000092.1 16668 16754 (3006) C rnd-1_family-0#Unknown (15) 77 4 m_b123s001i2
+
+  VHLK02000092.      16668 CCAGAACCAGAGCTGGAACCAACCAGATGATT--GGTCTTCATTACTACC 16715
+                                   ?  i     v  -- ----   i --     --- v      
+C rnd-1_family-         77 CCAGAACCNGAACTGGATCC--C----TGACTTGGGTCT---TGACTACC 37
+
+  VHLK02000092.      16716 ACCAGAACCTGAACCAGAACTAGATCCTTGGCCTGGATC 16754
+                           v   ------     ?     i     i  i i   i  
+C rnd-1_family-         36 TCCA------GAACCNGAACTGGATCCCTGACTTGGGTC 4
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 16.15
+CpG sites = 7, Kimura (unadjusted) = 16.15
+Transitions / transversions = 2.33 (7/3)
+Gap_init rate = 0.19 (16 / 86), avg. gap size = 1.06 (17 / 16)
+
+347 16.43 5.41 1.30 VHLK02000092.1 16723 16796 (2964) C rnd-1_family-0#Unknown (15) 77 1 m_b123s001i3
+
+  VHLK02000092.      16723 CCTGAACCAGAACTAGATCCTTGGCCTGGATC--AAC-ACCTCCAGAACT 16769
+                             v     ?     i     i  i i   i  --i  -           i
+C rnd-1_family-         77 CCAGAACCNGAACTGGATCCCTGACTTGGGTCTTGACTACCTCCAGAACC 28
+
+  VHLK02000092.      16770 AGAGACT-GATCCCTGGTCTGGATCTTG 16796
+                           ?  -   -        iii   i     
+C rnd-1_family-         27 NGA-ACTGGATCCCTGACTTGGGTCTTG 1
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 20.29
+CpG sites = 11, Kimura (unadjusted) = 20.29
+Transitions / transversions = 11.00 (11/1)
+Gap_init rate = 0.05 (4 / 73), avg. gap size = 1.25 (5 / 4)
+
+248 13.91 1.45 16.67 VHLK02000092.1 16757 16825 (2935) C rnd-1_family-0#Unknown (10) 82 23 m_b123s001i4
+
+  VHLK02000092.      16757 CACCTCCAGAACTAGAGACT-GATCCCTGGTCTGGATCTTGGCTTGGATC 16805
+                                       i?  -   -        iii   i     i  ------
+C rnd-1_family-         82 CACCTCCAGAACCNGA-ACTGGATCCCTGACTTGGGTCTTGACT------ 40
+
+  VHLK02000092.      16806 AACACCTCCTGAGCCAGAAC 16825
+                           ---      v  i  ?    
+C rnd-1_family-         39 ---ACCTCCAGAACCNGAAC 23
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 16.16
+CpG sites = 7, Kimura (unadjusted) = 16.16
+Transitions / transversions = 7.00 (7/1)
+Gap_init rate = 0.16 (11 / 68), avg. gap size = 1.00 (11 / 11)
+
+235 26.64 2.38 6.17 VHLK02000092.1 16962 17045 (2715) C rnd-1_family-0#Unknown (11) 81 1 m_b123s001i5
+
+  VHLK02000092.      16962 ACCTCCAGAGCCTGAGCCAGAACTAGATGATT--GATCTTCATTAATACC 17009
+                                    i  ?  i ii  v iv--   i -- i    v i  ---  
+C rnd-1_family-         81 ACCTCCAGAACCNGAACTGGATCCC--TGACTTGGGTCTTGACTA---CC 37
+
+  VHLK02000092.      17010 TCCAGAACTAGAGCCTGATGTCTGATCTTGATCTTG 17045
+                                   i?  i iv   vi    ii v i     
+C rnd-1_family-         36 TCCAGAACCNGAACTGGATCCCTGACTTGGGTCTTG 1
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 35.75
+CpG sites = 15, Kimura (unadjusted) = 35.75
+Transitions / transversions = 2.50 (15/6)
+Gap_init rate = 0.07 (6 / 83), avg. gap size = 1.17 (7 / 6)
+
+335 25.37 0.00 0.00 VHLK02000092.1 17138 17204 (2556) C rnd-1_family-0#Unknown (24) 68 2 m_b123s001i6
+
+  VHLK02000092.      17138 GAACTAGATCCTTCATTCGGATCTTGGTTACCTCCAGAGTCGGAACCAGA 17187
+                                i     i v i i  i     ii          ii ?    ii  
+C rnd-1_family-         68 GAACTGGATCCCTGACTTGGGTCTTGACTACCTCCAGAACCNGAACTGGA 19
+
+  VHLK02000092.      17188 ACCTTGACCTTGATCTT 17204
+                           v  i    i v i    
+C rnd-1_family-         18 TCCCTGACTTGGGTCTT 2
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 34.10
+CpG sites = 14, Kimura (unadjusted) = 34.10
+Transitions / transversions = 4.67 (14/3)
+Gap_init rate = 0.00 (0 / 66), avg. gap size = 0.0 (0 / 0)
+
+290 23.24 0.00 12.86 VHLK02000092.1 17156 17234 (2526) C rnd-1_family-0#Unknown (0) 92 23 m_b123s001i7
+
+  VHLK02000092.      17156 GGATCTTGGTTACCTCCAGAGTCGGAACCAGAACCTTGACCTTGATCTTA 17205
+                             i     iii         ii ?    ii  v  i    i v i    i
+C rnd-1_family-         92 GGGTCTTGACCACCTCCAGAACCNGAACTGGATCCCTGACTTGGGTCTTG 43
+
+  VHLK02000092.      17206 GCCTGGATCAACACCTCCAGAACCTGAAC 17234
+                           i ---------i            ?    
+C rnd-1_family-         42 AC---------TACCTCCAGAACCNGAAC 23
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 30.61
+CpG sites = 14, Kimura (unadjusted) = 30.61
+Transitions / transversions = 7.00 (14/2)
+Gap_init rate = 0.12 (9 / 78), avg. gap size = 1.00 (9 / 9)
+
+282 18.81 0.00 28.00 VHLK02000092.1 17617 17712 (2048) C rnd-1_family-0#Unknown (17) 75 1 m_b123s001i8
+
+  VHLK02000092.      17617 AGAACTGGAACTAGATCCTTGATTTGGGTCTTGGTCTTGATTACCATTTT 17666
+                                i?     i     i   i    ------       i    --- i
+C rnd-1_family-         75 AGAACCNGAACTGGATCCCTGACTTGG------GTCTTGACTACC---TC 35
+
+  VHLK02000092.      17667 CATAACTAGAGCCTGAGCCAGAACTTGATCCTTCATTCGGATCTTG 17712
+                             ------------  i  ?     v     i v i i  i     
+C rnd-1_family-         34 CA------------GAACCNGAACTGGATCCCTGACTTGGGTCTTG 1
+
+Matrix = 20p43g.matrix
+Kimura (with divCpGMod) = 21.34
+CpG sites = 11, Kimura (unadjusted) = 21.34
+Transitions / transversions = 5.50 (11/2)
+Gap_init rate = 0.22 (21 / 95), avg. gap size = 1.00 (21 / 21)
+
+326 15.79 0.00 0.00 VHLK02000001.1 219222 219278 (146752) rnd-2_family-193#Unknown 552 608 (0) m_b167s001i0
+
+  VHLK02000001.     219222 TCGCCTCAGTGTGGTCCTTACTGCTCAACATATCCCAAGGGTTACTTCAG 219271
+                             v  ?           i     i     i     v     i v    iv
+  rnd-2_family-        552 TCTCCNCAGTGTGGTCCCTACTGTTCAACGTATCCAAAGGGCTTCTTCGC 601
+
+  VHLK02000001.     219272 TTTTTGG 219278
+                           ?      
+  rnd-2_family-        602 NTTTTGG 608
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 14.41
+CpG sites = 5, Kimura (unadjusted) = 18.62
+Transitions / transversions = 1.25 (5/4)
+Gap_init rate = 0.00 (0 / 56), avg. gap size = 0.0 (0 / 0)
+
+519 28.34 9.40 3.19 VHLK02000001.1 220803 221068 (144962) rnd-2_family-193#Unknown 68 349 (259) m_b167s001i1
+
+  VHLK02000001.     220803 CCTTTCTATCCTCCTGGGATTCATCCTGCGCCATTATT--AGGTGATGAA 220850
+                               v   i     ?  i  iv v     v  --ii  --?  i  i i?
+  rnd-2_family-         68 CCTTACTACCCTCCNGGAATCAAGCCTGCTCC--CGTTGGNGGCGACGGN 115
+
+  VHLK02000001.     220851 TCTAATACTCCCTCGGGCTA---TCACTATA-----ACAAGACATC---- 220888
+                             v  i  i  vvv   v  --- i  v   -----  ?i    vi----
+  rnd-2_family-        116 TCGAACACCCCAGAGGGATACGTTTACAATACCACCACNGGACAGTTTGA 165
+
+  VHLK02000001.     220889 --AGGCTTATTTGAGGAAAACGAGGGAAGCAACAAG-----GAGGAAG-- 220929
+                           --    i ---      ii  i? ---   i  i  -----     v --
+  rnd-2_family-        166 GAAGGCCT---TGAGGAGGACANG---AGCGACGAGAGTGGGAGGACGAG 209
+
+  VHLK02000001.     220930 -TAAATCCATTCCAGCCAAGGGAAATAGTCCAAGGCAAGGAAGAGTGTGA 220978
+                           - i     ?   vii  i vivvv     vv i  ? i   v     i  
+  rnd-2_family-        210 CTGAATCCNTTCAGACCGACATTCATAGTGGAGGGNAGGGACGAGTGCGA 259
+
+  VHLK02000001.     220979 TTTGTATTTGTTTACGACATGTAATTCGACCTCCGTGAGAATAATGCCGA 221028
+                           ii    i?    ii?vi v  i  i  ?  i  i i?           ii
+  rnd-2_family-        260 CCTGTACNTGTTCGNTGCCTGCAACTCNACTTCTGCNAGAATAATGCCAG 309
+
+  VHLK02000001.     221029 ATGAC-TTTGTGTTTAAGAAGTACTGGACCTTGTTTGTAAT 221068
+                            v  ?-iv   -   i  i  v       vi i  i  i  
+  rnd-2_family-        310 AAGANACGTGT-TTTGAGGAGGACTGGACGCTATTCGTGAT 349
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 32.75
+CpG sites = 47, Kimura (unadjusted) = 39.61
+Transitions / transversions = 1.81 (47/26)
+Gap_init rate = 0.06 (17 / 265), avg. gap size = 2.00 (34 / 17)
+
+444 24.32 0.90 0.00 VHLK02000001.1 221190 221300 (144730) rnd-2_family-193#Unknown 497 608 (0) m_b167s001i2
+
+  VHLK02000001.     221190 AACGATGTTGTTGTGTTCAAAAACGACGTTACTGGGAATGAGGTTTCT-G 221238
+                                viiv  v  i  i ii  i  vi v  i  vi v      vv - 
+  rnd-2_family-        497 AACGAGACAGTAGTATTTAGGAATGAGATAACCGGTGAAGAGGTTAATAG 546
+
+  VHLK02000001.     221239 TTGGATCGCCTCAATGCGGTCCCTACTGTTCGACGTATCCAAAGGGCTTC 221288
+                           iv     v  ?  i  i              i                  
+  rnd-2_family-        547 CGGGATCTCCNCAGTGTGGTCCCTACTGTTCAACGTATCCAAAGGGCTTC 596
+
+  VHLK02000001.     221289 TTTGCCTTCTGG 221300
+                             i  ?  i   
+  rnd-2_family-        597 TTCGCNTTTTGG 608
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 26.79
+CpG sites = 16, Kimura (unadjusted) = 30.72
+Transitions / transversions = 1.45 (16/11)
+Gap_init rate = 0.01 (1 / 110), avg. gap size = 1.00 (1 / 1)
+
+2232 11.41 4.49 0.51 VHLK02000001.1 222656 223034 (142996) rnd-2_family-193#Unknown 1 394 (214) m_b167s001i3
+
+  VHLK02000001.     222656 CTACAACCCTGACCTGGATTCGGAAAGTGGAGTTTACCATCCCGAAATCA 222705
+                                                      i         v    ?  i ?  
+  rnd-2_family-          1 CTACAACCCTGACCTGGATTCGGAAAGCGGAGTTTACAATCCNGAGANCA 50
+
+  VHLK02000001.     222706 AATACGGGGAGTCGCATCCTTTCTACCCTCCCGGAGTCAAGCCAGCTCCC 222755
+                                                v         ?   i       v      
+  rnd-2_family-         51 AATACGGGGAGTCGCATCCTTACTACCCTCCNGGAATCAAGCCTGCTCCC 100
+
+  VHLK02000001.     222756 ATTGGAGGCGATGGTTCAAACACCCCAGAGGGATACGTTTACAATGCCAC 222805
+                           i    ?     i  ?  i                           i    
+  rnd-2_family-        101 GTTGGNGGCGACGGNTCGAACACCCCAGAGGGATACGTTTACAATACCAC 150
+
+  VHLK02000001.     222806 CACGGGACAGTTTG---AGGCCTCC-GGA-GACAGGAGC----------- 222839
+                              ?          ---      iv-   -    ?    -----------
+  rnd-2_family-        151 CACNGGACAGTTTGAGAAGGCCTTGAGGAGGACANGAGCGACGAGAGTGG 200
+
+  VHLK02000001.     222840 GAGGACGAGTTGAATCCCTTCAGACCGACATTCATAGTGGAGGGAAGGGA 222889
+                                    i       ?                          ?     
+  rnd-2_family-        201 GAGGACGAGCTGAATCCNTTCAGACCGACATTCATAGTGGAGGGNAGGGA 250
+
+  VHLK02000001.     222890 CTCGTGTGACCTGTACCTCTTCTCCGCCTGCAATGCCACTTCTGCGAGAA 222939
+                            vv   i         ? v   v?i        iv ?        ?    
+  rnd-2_family-        251 CGAGTGCGACCTGTACNTGTTCGNTGCCTGCAACTCNACTTCTGCNAGAA 300
+
+  VHLK02000001.     222940 TAATGCCAGAGGAGAGTCATTTCAAGAGGGATTGGACACTATTTGTGATC 222989
+                                     i  ? vvii   ii  ii   i     i     i     i
+  rnd-2_family-        301 TAATGCCAGAAGANACGTGTTTTGAGGAGGACTGGACGCTATTCGTGATT 350
+
+  VHLK02000001.     222990 CTCAGTTCAGGAATACCAAGCCACA-ACGCGAAGGACAGCGTCAAT 223034
+                                   i   i    -v?     -i  v   -i  ii?  i   
+  rnd-2_family-        351 CTCAGTTCGGGAGTACC-CNCCACATGCGGGAA-AACGANGTTAAT 394
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 10.43
+CpG sites = 30, Kimura (unadjusted) = 13.16
+Transitions / transversions = 2.31 (30/13)
+Gap_init rate = 0.02 (7 / 378), avg. gap size = 2.71 (19 / 7)
+
+615 22.22 2.72 2.03 VHLK02000001.1 223245 223391 (142639) rnd-2_family-193#Unknown 461 608 (0) m_b167s001i4
+
+  VHLK02000001.     223245 CAAGAGTACGAGGTAGTTTTATCTTTAACACTAAAAAACGAAACAGTGCT 223294
+                             i   v viv   i  vi     i vv iivv  v     i     iv 
+  rnd-2_family-        461 CAGGAGGAGACGGTGGTGCTATCTCTTTCGTACAACAACGAGACAGTAGT 510
+
+  VHLK02000001.     223295 ATTCAAGAATGAGATAGATAAAAGTGAACAGGT----ATCGGTATCTCCA 223340
+                              i i          --- vvi     v    ---- v   v      ?
+  rnd-2_family-        511 ATTTAGGAATGAGATA---ACCGGTGAAGAGGTTAATAGCGGGATCTCCN 557
+
+  VHLK02000001.     223341 CAATGCGGTCCCTACTGTTCGACGTATCCAAAGGGCTTCTTTGCCTTCTG 223390
+                             i  i              i                    i  ?  i  
+  rnd-2_family-        558 CAGTGTGGTCCCTACTGTTCAACGTATCCAAAGGGCTTCTTCGCNTTTTG 607
+
+  VHLK02000001.     223391 G 223391
+                            
+  rnd-2_family-        608 G 608
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 24.27
+CpG sites = 17, Kimura (unadjusted) = 27.09
+Transitions / transversions = 1.13 (17/15)
+Gap_init rate = 0.03 (4 / 146), avg. gap size = 1.75 (7 / 4)
+
+3696 9.10 4.37 2.14 VHLK02000001.1 224807 225401 (140629) rnd-2_family-193#Unknown 1 608 (0) m_b167s001i5
+
+  VHLK02000001.     224807 CTACAACCCTGACCTGGATTTGGAAAGTGGAGTTTACCATCCCGAAATCA 224856
+                                               i      i         v    ?  i ?  
+  rnd-2_family-          1 CTACAACCCTGACCTGGATTCGGAAAGCGGAGTTTACAATCCNGAGANCA 50
+
+  VHLK02000001.     224857 AATACGGGGAGTCGCATCCTTTCTACCCTCCCGGAGTCAAGCCAGCTCCC 224906
+                                                v         ?   i       v      
+  rnd-2_family-         51 AATACGGGGAGTCGCATCCTTACTACCCTCCNGGAATCAAGCCTGCTCCC 100
+
+  VHLK02000001.     224907 ATTGGAGGCGATGGTTCAAACACCCCAGAGGGATACGTTTACAATGCCAC 224956
+                           i    ?     i  ?  i                           i    
+  rnd-2_family-        101 GTTGGNGGCGACGGNTCGAACACCCCAGAGGGATACGTTTACAATACCAC 150
+
+  VHLK02000001.     224957 CACGGGACAGTTTG---AGGCCTCC-GGA-GACAGGAGC----------- 224990
+                              ?          ---      iv-   -    ?    -----------
+  rnd-2_family-        151 CACNGGACAGTTTGAGAAGGCCTTGAGGAGGACANGAGCGACGAGAGTGG 200
+
+  VHLK02000001.     224991 GAGGACGAGTTGAATCCTTTCAGACCGACATTCATAGTGGAGGGAAGGGA 225040
+                                    i       ?                          ?     
+  rnd-2_family-        201 GAGGACGAGCTGAATCCNTTCAGACCGACATTCATAGTGGAGGGNAGGGA 250
+
+  VHLK02000001.     225041 CTCGTGTGACCTGTACCTCTTCTCCGCCTGCAATGCCACTTCTGCGAGAA 225090
+                            vv   i         ? v   v?i        iv ?        ?    
+  rnd-2_family-        251 CGAGTGCGACCTGTACNTGTTCGNTGCCTGCAACTCNACTTCTGCNAGAA 300
+
+  VHLK02000001.     225091 TAATGCCAGAAGACACGTATTTTGAGGAGGACTGGACGCTATTTGTGATC 225140
+                                        ?    i                        i     i
+  rnd-2_family-        301 TAATGCCAGAAGANACGTGTTTTGAGGAGGACTGGACGCTATTCGTGATT 350
+
+  VHLK02000001.     225141 CTCAGTTCGGGAGTACCCAATA---GCG-----ACGAGGTTAATTCTCCT 225182
+                                             ?vi ---   -----    ?            
+  rnd-2_family-        351 CTCAGTTCGGGAGTACCCNCCACATGCGGGAAAACGANGTTAATTCTCCT 400
+
+  VHLK02000001.     225183 GAGGGCGAGGAGGGGGATTCTGAGCACTACAACTACAAGTACGACTTTAT 225232
+                                   i                                   -  i -
+  rnd-2_family-        401 GAGGGCGAAGAGGGGGATTCTGAGCACTACAACTACAAGTACGA-TTCA- 448
+
+  VHLK02000001.     225233 TCGTATTTCGCAAGGTGATCAGAGAGAAGA-GGTGGTGCTATCTCTTTCG 225281
+                                i-------  i  v   -   i   -                   
+  rnd-2_family-        449 TCGTAC-------GGCGAACAG-GAGGAGACGGTGGTGCTATCTCTTTCG 490
+
+  VHLK02000001.     225282 TACAACAACGAAACAGTAACCTTTAAGGATGAGAAGAACAATAGGGAAGG 225331
+                                      i      iiv    i i      vi v ii ---    i
+  rnd-2_family-        491 TACAACAACGAGACAGTAGTATTTAGGAATGAGATAACCGGT---GAAGA 537
+
+  VHLK02000001.     225332 GG-TAAAGGTGGGATCCCCACAATGCGGTCCCTACTGTTCAACGTATCCA 225380
+                             -   vi i      i  ?  i  i                        
+  rnd-2_family-        538 GGTTAATAGCGGGATCTCCNCAGTGTGGTCCCTACTGTTCAACGTATCCA 587
+
+  VHLK02000001.     225381 AAGGGCTTCTTTGCCTTCTGG 225401
+                                      i  ?  i   
+  rnd-2_family-        588 AAGGGCTTCTTCGCNTTTTGG 608
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 7.93
+CpG sites = 38, Kimura (unadjusted) = 10.16
+Transitions / transversions = 2.53 (38/15)
+Gap_init rate = 0.04 (21 / 594), avg. gap size = 1.86 (39 / 21)
+
+2782 6.82 5.83 0.23 VHLK02000001.1 226756 227167 (138863) rnd-2_family-193#Unknown 15 449 (159) m_b167s001i6
+
+  VHLK02000001.     226756 TGGATGCTGAAAACGGAGTTTATAATCCGGACAGCAAATACGGGGAGTCG 226805
+                                v v    i         i     ?  v ?                
+  rnd-2_family-         15 TGGATTCGGAAAGCGGAGTTTACAATCCNGAGANCAAATACGGGGAGTCG 64
+
+  VHLK02000001.     226806 CATCCTTTCTACCCTCCAGGAATCAAACCCGCTCCCATTGGAGGTGGTGG 226855
+                                  v         ?        i  i      i    ?  i ii  
+  rnd-2_family-         65 CATCCTTACTACCCTCCNGGAATCAAGCCTGCTCCCGTTGGNGGCGACGG 114
+
+  VHLK02000001.     226856 TTCAAACACCCCAGAGGGATACGTTTACAATGCCACCACGGGACAGTTTG 226905
+                           ?  i                           i       ?          
+  rnd-2_family-        115 NTCGAACACCCCAGAGGGATACGTTTACAATACCACCACNGGACAGTTTG 164
+
+  VHLK02000001.     226906 AG---GCCTCC-GGAG-ACAGGAGCGA-----------GGACGAGCTGAA 226939
+                             ---    iv-    -   ?      -----------            
+  rnd-2_family-        165 AGAAGGCCTTGAGGAGGACANGAGCGACGAGAGTGGGAGGACGAGCTGAA 214
+
+  VHLK02000001.     226940 TCCTTTCAGACCGACATTCATAGTGGAGGGAAGGGACTCGTGTGACCTGT 226989
+                              ?                          ?      vv   i       
+  rnd-2_family-        215 TCCNTTCAGACCGACATTCATAGTGGAGGGNAGGGACGAGTGCGACCTGT 264
+
+  VHLK02000001.     226990 ACCTCTTCTCCGCCTGCAATGCCACTTCTGCAAGAATAATGCCAGAAGAC 227039
+                             ? v   v?i        iv ?        ?                 ?
+  rnd-2_family-        265 ACNTGTTCGNTGCCTGCAACTCNACTTCTGCNAGAATAATGCCAGAAGAN 314
+
+  VHLK02000001.     227040 ACGTATTTTGAGGAGGACTGGACGCTATTTGTGATTCTCAGTTCGGGAGT 227089
+                               i                        i                    
+  rnd-2_family-        315 ACGTGTTTTGAGGAGGACTGGACGCTATTCGTGATTCTCAGTTCGGGAGT 364
+
+  VHLK02000001.     227090 ACCCAATA---GCG-----ACGAGGTTAATTCTCCTGAGGGCGAAGAGGG 227131
+                               ?vi ---   -----    ?                          
+  rnd-2_family-        365 ACCCNCCACATGCGGGAAAACGANGTTAATTCTCCTGAGGGCGAAGAGGG 414
+
+  VHLK02000001.     227132 GGATTCTGAGCACTACAACTACAAGTACGAATTCAT 227167
+                                                        -      
+  rnd-2_family-        415 GGATTCTGAGCACTACAACTACAAGTACG-ATTCAT 449
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 5.96
+CpG sites = 17, Kimura (unadjusted) = 7.48
+Transitions / transversions = 1.55 (17/11)
+Gap_init rate = 0.02 (7 / 411), avg. gap size = 3.57 (25 / 7)
+
+911 12.93 3.40 0.00 VHLK02000001.1 227247 227393 (138637) rnd-2_family-193#Unknown 457 608 (0) m_b167s001i7
+
+  VHLK02000001.     227247 CAAACAG-AGGAG---TTGGTGTTTTCACTATCATACAATAACAACACAG 227292
+                            i     -     ---v     i v  v  v  i     i   i v    
+  rnd-2_family-        457 CGAACAGGAGGAGACGGTGGTGCTATCTCTTTCGTACAACAACGAGACAG 506
+
+  VHLK02000001.     227293 TAGTATTTAGGAATGAAGTAACCAATGAAGAGGTTAA-AGCAGCATCTCC 227341
+                                           ii     ii            -   i v      
+  rnd-2_family-        507 TAGTATTTAGGAATGAGATAACCGGTGAAGAGGTTAATAGCGGGATCTCC 556
+
+  VHLK02000001.     227342 CCAGTGTGGTCCCTACTGTTCGACGTATCCAAAGGGTTTCTTTGCATTTT 227391
+                           ?                    i              i     i  ?    
+  rnd-2_family-        557 NCAGTGTGGTCCCTACTGTTCAACGTATCCAAAGGGCTTCTTCGCNTTTT 606
+
+  VHLK02000001.     227392 GG 227393
+                             
+  rnd-2_family-        607 GG 608
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 10.06
+CpG sites = 13, Kimura (unadjusted) = 14.63
+Transitions / transversions = 2.17 (13/6)
+Gap_init rate = 0.02 (3 / 146), avg. gap size = 1.67 (5 / 3)
+
+1760 20.63 0.85 0.57 VHLK02000001.1 228749 229099 (136931) rnd-2_family-193#Unknown 16 367 (241) m_b167s001i8
+
+  VHLK02000001.     228749 GGATGCTGAAAACGAAGTCTATAATCCAGACAGCAAATACGGAGAGTCGT 228798
+                               v v    i  i   i  i     ?  v ?         i      i
+  rnd-2_family-         16 GGATTCGGAAAGCGGAGTTTACAATCCNGAGANCAAATACGGGGAGTCGC 65
+
+  VHLK02000001.     228799 ATCCTTACTATCCTCCTGGAATCAAGCCTGCTCCTGTTAATGGTAACGAG 228848
+                                     i     ?                 i   ii?  ii   i?
+  rnd-2_family-         66 ATCCTTACTACCCTCCNGGAATCAAGCCTGCTCCCGTTGGNGGCGACGGN 115
+
+  VHLK02000001.     228849 TCGAATACTCCAGAGGGATACATTTACAATACCACTACTGGACAGTTTGA 228898
+                                i  i            i             i  ?           
+  rnd-2_family-        116 TCGAACACCCCAGAGGGATACGTTTACAATACCACCACNGGACAGTTTGA 165
+
+  VHLK02000001.     228899 GAAGG--TTGAAACTGGGGATGAG-GACGAGAGTGGGGAGGAGGAACTGA 228945
+                                --    iiv-  iv ?   -         -       v  i    
+  rnd-2_family-        166 GAAGGCCTTGAGGA-GGACANGAGCGACGAGAGT-GGGAGGACGAGCTGA 213
+
+  VHLK02000001.     228946 ATCCATACAGACCTAAGTTTATAGTTGGAGGTACAGAAATGTGTGATTTG 228995
+                               ? v      v vi  i     v ii  ? vi  viv   i  ii  
+  rnd-2_family-        214 ATCCNTTCAGACCGACATTCATAGTGGAGGGNAGGGACGAGTGCGACCTG 263
+
+  VHLK02000001.     228996 TACTTGTTTACCACATGTAATGCCACTTCCGTGAGAATAATGCCTGAAAA 229045
+                              ?    ii?ii v  i  iv ?     i i?           v   i 
+  rnd-2_family-        264 TACNTGTTCGNTGCCTGCAACTCNACTTCTGCNAGAATAATGCCAGAAGA 313
+
+  VHLK02000001.     229046 CACATACTTTAAGAATGACTGGACATTGTTTGTAATATTAAGTTCAGGCG 229095
+                           ?  i ii   i  i v        ii i  i  i  vi v     i  v 
+  rnd-2_family-        314 NACGTGTTTTGAGGAGGACTGGACGCTATTCGTGATTCTCAGTTCGGGAG 363
+
+  VHLK02000001.     229096 TTCC 229099
+                            v  
+  rnd-2_family-        364 TACC 367
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 22.06
+CpG sites = 51, Kimura (unadjusted) = 26.23
+Transitions / transversions = 2.43 (51/21)
+Gap_init rate = 0.01 (4 / 350), avg. gap size = 1.25 (5 / 4)
+
+879 18.95 0.65 0.00 VHLK02000001.1 229260 229412 (136618) rnd-2_family-193#Unknown 455 608 (0) m_b167s001i9
+
+  VHLK02000001.     229260 GGTGAGCAGTTAGAGAAGCTGGTGTTATCGTTTTCATATAATAATGACAC 229309
+                             i  i   vvi    v v     i    vi    i  i  i  i  v  
+  rnd-2_family-        455 GGCGAACAGGAGGAGACGGTGGTGCTATCTCTTTCGTACAACAACGAGAC 504
+
+  VHLK02000001.     229310 GGTTATATTTAGGAATGAAATAACCGGTGAGGAAGCTAA-AGCAGAGTCT 229358
+                           i  vi             i           i  i i   -   i ii   
+  rnd-2_family-        505 AGTAGTATTTAGGAATGAGATAACCGGTGAAGAGGTTAATAGCGGGATCT 554
+
+  VHLK02000001.     229359 CCCCAGTGTGGTCCCTACTGTTCAACATATCCAAAAGGTTTCTTTGCATT 229408
+                             ?                       i        i  i     i  ?  
+  rnd-2_family-        555 CCNCAGTGTGGTCCCTACTGTTCAACGTATCCAAAGGGCTTCTTCGCNTT 604
+
+  VHLK02000001.     229409 TTGG 229412
+                               
+  rnd-2_family-        605 TTGG 608
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 17.91
+CpG sites = 22, Kimura (unadjusted) = 23.04
+Transitions / transversions = 3.14 (22/7)
+Gap_init rate = 0.01 (1 / 152), avg. gap size = 1.00 (1 / 1)
+
+1500 19.87 1.63 1.30 VHLK02000001.1 230816 231121 (134909) rnd-2_family-193#Unknown 1 307 (301) m_b167s001i10
+
+  VHLK02000001.     230816 CTATCATCCAGACTTTGATTCAGAAAAC--AATTCATATCATCCTGAGAA 230863
+                              iv i  v   i v     i    i -- i  i i --    ?    ?
+  rnd-2_family-          1 CTACAACCCTGACCTGGATTCGGAAAGCGGAGTTTACA--ATCCNGAGAN 48
+
+  VHLK02000001.     230864 CAAGTACGGAGAGTCGTATCCTTACTATCCTCCTGGAATCAAGCCTGCTC 230913
+                              i     i      i          i     ?                
+  rnd-2_family-         49 CAAATACGGGGAGTCGCATCCTTACTACCCTCCNGGAATCAAGCCTGCTC 98
+
+  VHLK02000001.     230914 CTGTTAATGGTAACGAGTCGAATACTCCAGAGGGATATATTTACAATACC 230963
+                            i   ii?  ii   i?     i  i           ii           
+  rnd-2_family-         99 CCGTTGGNGGCGACGGNTCGAACACCCCAGAGGGATACGTTTACAATACC 148
+
+  VHLK02000001.     230964 ACTACTGGACAGTTTGAGAAGG--TTGAAACTGGGGATGAG-GACGAAAG 231010
+                             i  ?                --    iiv-  iv ?   -     i  
+  rnd-2_family-        149 ACCACNGGACAGTTTGAGAAGGCCTTGAGGA-GGACANGAGCGACGAGAG 197
+
+  VHLK02000001.     231011 TGGGGAGGAGGAACTGAATCCATACAGACCTAAGTTTATAGTTGGAGGTA 231060
+                            -       v  i        ? v      v vi  i     v ii  ? 
+  rnd-2_family-        198 T-GGGAGGACGAGCTGAATCCNTTCAGACCGACATTCATAGTGGAGGGNA 246
+
+  VHLK02000001.     231061 CAGAAATGTGTGATTTGTATTTGTTTACCACATGTAATGCCACTTCCGCG 231110
+                           vi  viv   i  ii    i?    ii?ii v  i  iv ?     i  ?
+  rnd-2_family-        247 GGGACGAGTGCGACCTGTACNTGTTCGNTGCCTGCAACTCNACTTCTGCN 296
+
+  VHLK02000001.     231111 AGAATAATGCC 231121
+                                      
+  rnd-2_family-        297 AGAATAATGCC 307
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 21.85
+CpG sites = 45, Kimura (unadjusted) = 25.31
+Transitions / transversions = 3.00 (45/15)
+Gap_init rate = 0.02 (7 / 305), avg. gap size = 1.29 (9 / 7)
+
+268 12.82 0.00 0.00 VHLK02000001.1 231174 231212 (134818) rnd-2_family-193#Unknown 570 608 (0) m_b167s001i11
+
+  VHLK02000001.     231174 TATTGTTCAACATATCCAAAAGGTTTCTTTGCGTTTTGG 231212
+                             i        i        i  i     i  ?      
+  rnd-2_family-        570 TACTGTTCAACGTATCCAAAGGGCTTCTTCGCNTTTTGG 608
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 9.22
+CpG sites = 5, Kimura (unadjusted) = 15.27
+Transitions / transversions = 1.00 (5/0)
+Gap_init rate = 0.00 (0 / 38), avg. gap size = 0.0 (0 / 0)
+
+1771 19.34 0.90 0.60 VHLK02000001.1 232724 233056 (132974) rnd-2_family-193#Unknown 34 367 (241) m_b167s001i12
+
+  VHLK02000001.     232724 TTATAATCCTGAGAACAAATACGGAGAGTCGTATCCTTACTATCCTCCTG 232773
+                              i     ?    ?         i      i          i     ? 
+  rnd-2_family-         34 TTACAATCCNGAGANCAAATACGGGGAGTCGCATCCTTACTACCCTCCNG 83
+
+  VHLK02000001.     232774 GAATCAAGCCTGCTCCTGTTAACGGTAACGAGTCGAATACTCCAGAGGGA 232823
+                                           i   ii?  ii   i?     i  i         
+  rnd-2_family-         84 GAATCAAGCCTGCTCCCGTTGGNGGCGACGGNTCGAACACCCCAGAGGGA 133
+
+  VHLK02000001.     232824 TACATTTACAATACCACTACTGGACAGTTTGAGAAGG--TTGAAACTGGG 232871
+                              i             i  ?                --    iiv-  i
+  rnd-2_family-        134 TACGTTTACAATACCACCACNGGACAGTTTGAGAAGGCCTTGAGGA-GGA 182
+
+  VHLK02000001.     232872 GATGAG-GACGAGAGTGGGGAGGATGAACTGAATCCATACAGACCTAAGT 232920
+                           v ?   -         -       i  i        ? v      v vi 
+  rnd-2_family-        183 CANGAGCGACGAGAGT-GGGAGGACGAGCTGAATCCNTTCAGACCGACAT 231
+
+  VHLK02000001.     232921 TTATAGTTGGAGGTATAGAAATGTGTGATTTGTATTTGTTTACCACATGT 232970
+                            i     v ii  ? vi  viv   i  ii    i?    ii?ii v  i
+  rnd-2_family-        232 TCATAGTGGAGGGNAGGGACGAGTGCGACCTGTACNTGTTCGNTGCCTGC 281
+
+  VHLK02000001.     232971 AATGCCACTTCCGCGAGAATAATGCCTGAAAACACATACTTTAAGAATGA 233020
+                             iv ?     i  ?           v   i ?  i ii   i  i v  
+  rnd-2_family-        282 AACTCNACTTCTGCNAGAATAATGCCAGAAGANACGTGTTTTGAGGAGGA 331
+
+  VHLK02000001.     233021 CTGGACATTGTTTGTAATATTGAGTTCAGGAGTACC 233056
+                                 ii i  i  i  vi v     i        
+  rnd-2_family-        332 CTGGACGCTATTCGTGATTCTCAGTTCGGGAGTACC 367
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 19.80
+CpG sites = 49, Kimura (unadjusted) = 24.52
+Transitions / transversions = 3.27 (49/15)
+Gap_init rate = 0.01 (4 / 332), avg. gap size = 1.25 (5 / 4)
+
+662 25.00 0.69 0.00 VHLK02000001.1 233133 233276 (132754) rnd-2_family-193#Unknown 464 608 (0) m_b167s001i13
+
+  VHLK02000001.     233133 GAAGAGAAGACTGTATTTTCGTTATCGTATAATAATGAAACAGTAACATT 233182
+                             i    v iiv  ii v  vi v     i  i  i  i      ii   
+  rnd-2_family-        464 GAGGAGACGGTGGTGCTATCTCTTTCGTACAACAACGAGACAGTAGTATT 513
+
+  VHLK02000001.     233183 TAGAGATGAGATTAATAACAATGAGGTTC-TATCAGGATCTCCACAGTGT 233231
+                              ii       v viiiii v      v-  v i        ?      
+  rnd-2_family-        514 TAGGAATGAGATAACCGGTGAAGAGGTTAATAGCGGGATCTCCNCAGTGT 563
+
+  VHLK02000001.     233232 GGTCCTTATTGTTCAACATATCCAAAAGGTTTCTTTGCGTTTTGG 233276
+                                i  i        i        i  i     i  ?      
+  rnd-2_family-        564 GGTCCCTACTGTTCAACGTATCCAAAGGGCTTCTTCGCNTTTTGG 608
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 27.04
+CpG sites = 26, Kimura (unadjusted) = 32.49
+Transitions / transversions = 2.60 (26/10)
+Gap_init rate = 0.01 (1 / 143), avg. gap size = 1.00 (1 / 1)
+
+1225 28.67 10.02 1.75 VHLK02000001.1 235451 235979 (130051) rnd-2_family-193#Unknown 37 608 (0) m_b167s001i14
+
+  VHLK02000001.     235451 CAATCCTTTGTACAATTACGGATTGAATT--ATCCACATTATCCGCCAGG 235498
+                                 ?vv v?   v     i--  i i--    vi i  i  v  ?  
+  rnd-2_family-         37 CAATCCNGAGANCAAATACGGG--GAGTCGCATCCTTACTACCCTCCNGG 84
+
+  VHLK02000001.     235499 TATCAAGCCGGCTCCTACTACTGGTAATTACCACAATACACCTGCTGGAT 235548
+                           v        v     iii iv?  ii ivi?ivv  i  v  v vv    
+  rnd-2_family-         85 AATCAAGCCTGCTCCCGTTGGNGGCGACGGNTCGAACACCCCAGAGGGAT 134
+
+  VHLK02000001.     235549 ACATATACAATACAACAACGAGTCAGTTTGAGA---------------CA 235583
+                             i v        v  v  ?i v          ---------------  
+  rnd-2_family-        135 ACGTTTACAATACCACCACNGGACAGTTTGAGAAGGCCTTGAGGAGGACA 184
+
+  VHLK02000001.     235584 -GAGTCAGGAGAG---GACAACGAATTGAATCCGTTTAGGCC--TGTTCA 235627
+                           -   iv v     ---  vi    ii       ?  i  i  --ii    
+  rnd-2_family-        185 NGAGCGACGAGAGTGGGAGGACGAGCTGAATCCNTTCAGACCGACATTCA 234
+
+  VHLK02000001.     235628 TATTGTGGATGGTATTAACGAATGCAGTTTATATTTGTTCACTACTTGCA 235677
+                             --     v  ? vvi    i   iiii i  i?     i? i i    
+  rnd-2_family-        235 TA--GTGGAGGGNAGGGACGAGTGCGACCTGTACNTGTTCGNTGCCTGCA 282
+
+  VHLK02000001.     235678 ACTCAACATCTGCTAGAATAATGCCAGATGGTGCATTCTTTGAGGAAGAT 235727
+                               ?  v     ?              v i?i i vi        i  i
+  rnd-2_family-        283 ACTCNACTTCTGCNAGAATAATGCCAGAAGANACGTGTTTTGAGGAGGAC 332
+
+  VHLK02000001.     235728 TGGACATTGTTTGTAATCATAAATACGGGAATACCAGTATCACCTTC--- 235774
+                                ii i  i  i  iv v i v     i    --i?i   v v ---
+  rnd-2_family-        333 TGGACGCTATTCGTGATTCTCAGTTCGGGAGTACC--CNCCACATGCGGG 380
+
+  VHLK02000001.     235775 ----CGA---TAACTCTTCCAA------------------TAATAACTAC 235799
+                           ----   ---   i   i ii ------------------ i vv     
+  rnd-2_family-        381 AAAACGANGTTAATTCTCCTGAGGGCGAAGAGGGGGATTCTGAGCACTAC 430
+
+  VHLK02000001.     235800 GCTTACAACTTTG-TTTATTATGAGGGAGATGGTGTGGAGAATACACTGA 235848
+                           ivi     v vi -  i  ii iv  vii ii - v    ---  iv  i
+  rnd-2_family-        431 AACTACAAGTACGATTCATCGTACGGCGAACAG-GAGGAG---ACGGTGG 476
+
+  VHLK02000001.     235849 TACTATCTCTTAGTTATAACAACGAAAGTGTAGTATTTAAGAATCACGTG 235898
+                            i         vvv  i        i vv          i    v vi i
+  rnd-2_family-        477 TGCTATCTCTTTCGTACAACAACGAGACAGTAGTATTTAGGAATGAGATA 526
+
+  VHLK02000001.     235899 ACTAATATCGAAAACAA-AGTATTTTCTCCCCAGTGTGGCCCTTATTGTT 235947
+                             iii ivv  iivi  -  iivvv     ?        i  i  i    
+  rnd-2_family-        527 ACCGGTGAAGAGGTTAATAGCGGGATCTCCNCAGTGTGGTCCCTACTGTT 576
+
+  VHLK02000001.     235948 CAACCTATCCAAAGGGATTCTTTGCATTCTGG 235979
+                               v           v     i  ?  i   
+  rnd-2_family-        577 CAACGTATCCAAAGGGCTTCTTCGCNTTTTGG 608
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 33.00
+CpG sites = 91, Kimura (unadjusted) = 38.98
+Transitions / transversions = 1.57 (91/58)
+Gap_init rate = 0.04 (21 / 528), avg. gap size = 3.00 (63 / 21)
+
+528 20.71 2.65 1.75 VHLK02000001.1 237943 238055 (127975) rnd-2_family-193#Unknown 495 608 (0) m_b167s001i15
+
+  VHLK02000001.     237943 ACAATGAAAAGGTCGTATTTAAAAACGAAGTATCTGG---AGACGTCTCA 237989
+                               i  i vi  v       ii  i  ii  v i  ---   v  i-- 
+  rnd-2_family-        495 ACAACGAGACAGTAGTATTTAGGAATGAGATAACCGGTGAAGAGGTT--A 542
+
+  VHLK02000001.     237990 ACAGCTGGATCTCCGCAGTGCGGTCCCTATTGCTCTACGTATCCAAAAGG 238039
+                            i   v        ?     i        i  i  v           i  
+  rnd-2_family-        543 ATAGCGGGATCTCCNCAGTGTGGTCCCTACTGTTCAACGTATCCAAAGGG 592
+
+  VHLK02000001.     238040 CTTTTTCGCATTCTGG 238055
+                              i     ?  i   
+  rnd-2_family-        593 CTTCTTCGCNTTTTGG 608
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 23.24
+CpG sites = 17, Kimura (unadjusted) = 25.78
+Transitions / transversions = 2.83 (17/6)
+Gap_init rate = 0.03 (3 / 112), avg. gap size = 1.67 (5 / 3)
+
+1445 19.50 3.83 10.61 VHLK02000001.1 239484 240005 (126025) rnd-2_family-193#Unknown 119 608 (0) m_b167s001i16
+
+  VHLK02000001.     239484 AACACCCCAAATGGGTACCTTTTCAATTCAACCACTGGACAGTTCGAGCC 239533
+                                    i v  i   v   v    v v     ?        i   --
+  rnd-2_family-        119 AACACCCCAGAGGGATACGTTTACAATACCACCACNGGACAGTTTGAG-- 166
+
+  VHLK02000001.     239534 AAAGCCTGCTGAGGAGGATGCAAATGGGGAAGGCGGAGAAAGTCTCCAAA 239583
+                             i    --         ii?i ---------   iv  i   -------
+  rnd-2_family-        167 AAGGCCT--TGAGGAGGACANGA---------GCGACGAGAGT------- 198
+
+  VHLK02000001.     239584 TAAAGAAAAACGAGCCCAATCCATTCAGACCAGGACAT--ATAGTTGATG 239631
+                           ---i i ii      iv     ?        --     --     v  - 
+  rnd-2_family-        199 ---GGGAGGACGAGCTGAATCCNTTCAGACC--GACATTCATAGTGGA-G 242
+
+  VHLK02000001.     239632 GGGAGAG-CGAGTGTGAACTCGGCATATTTGATGTCTGCAACTCAACCTC 239680
+                             ?  i -      i  v  vvi ? i  i ?  i         ?  i  
+  rnd-2_family-        243 GGNAGGGACGAGTGCGACCTGTACNTGTTCGNTGCCTGCAACTCNACTTC 292
+
+  VHLK02000001.     239681 AGTTAGGATCACAAATAACAGTGGCAAGAGTC-TGTTGTTTAAACAGGGT 239729
+                           v i?  i  ----   iv   ----    ?v -    --  i iv   ii
+  rnd-2_family-        293 TGCNAGAAT----AATGCCAG----AAGANACGTGTT--TTGAGGAGGAC 332
+
+  VHLK02000001.     239730 TGGACTCTATTCATTATGCTCGGAACGGGAGT-TCCTCCACATGTAGAGT 239778
+                                v      i v  v   i vv       -i  ?       ii ---
+  rnd-2_family-        333 TGGACGCTATTCGTGATTCTCAGTTCGGGAGTACCCNCCACATGCGG--- 379
+
+  VHLK02000001.     239779 TTGAAAACGGTGTTAAGCTTAACTACAGATA-CGAATTTGTGAGTGTTTC 239827
+                           --       i?     --  --  v v  vi-    --- v i v v   
+  rnd-2_family-        380 --GAAAACGANGTTAA--TT--CTCCTGAGGGCGAA---GAGGGGGATTC 420
+
+  VHLK02000001.     239828 AGAGCACTACAACGACAAAGGCGA------G-ACGGTGAACAGCGAGGAG 239870
+                           v            v    ivi   ------ -    i      -      
+  rnd-2_family-        421 TGAGCACTACAACTACAAGTACGATTCATCGTACGGCGAACAG-GAGGAG 469
+
+  VHLK02000001.     239871 ACGGTCTTGTCATTAAGCTT-----CAATAACGAGACAGT-TTATTTAAC 239914
+                                vv  ii  i--v   -----   i           -v      i-
+  rnd-2_family-        470 ACGGTGGTGCTATC--TCTTTCGTACAACAACGAGACAGTAGTATTTAG- 516
+
+  VHLK02000001.     239915 AAATGAGTTAACCGGAGA-TACTTCAATAGCTGGATCTCCCCAATGTGGT 239963
+                           i      v       v  -v vv i      v        ?  i      
+  rnd-2_family-        517 GAATGAGATAACCGGTGAAGAGGTTAATAGCGGGATCTCCNCAGTGTGGT 566
+
+  VHLK02000001.     239964 CCCTATTGTTCCACCTACCCAAAGGGATTCTTCGCCTTTTGG 240005
+                                i     v  v  i        v        ?      
+  rnd-2_family-        567 CCCTACTGTTCAACGTATCCAAAGGGCTTCTTCGCNTTTTGG 608
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 21.94
+CpG sites = 49, Kimura (unadjusted) = 23.37
+Transitions / transversions = 1.17 (49/42)
+Gap_init rate = 0.12 (62 / 521), avg. gap size = 1.16 (72 / 62)
+
+490 25.96 10.26 6.17 VHLK02000001.1 241429 241740 (124290) rnd-2_family-193#Unknown 72 395 (213) m_b167s001i17
+
+  VHLK02000001.     241429 ACTTCCCTCCGGGAATTCAAGC-TGCTCCC-TTGA-----ATGGTTCTCT 241471
+                              v      ?     -     -       -   i----- i  ?  ---
+  rnd-2_family-         72 ACTACCCTCCNGGAAT-CAAGCCTGCTCCCGTTGGNGGCGACGGNTC--- 117
+
+  VHLK02000001.     241472 TATAAACACACCCCCAGGTTACTTTTACAACACAGCAACTGGTCTGTTTG 241521
+                           ---i     v  vvvi  v   v       i  vi v  ?  v v     
+  rnd-2_family-        118 ---GAACACCCCAGAGGGATACGTTTACAATACCACCACNGGACAGTTTG 164
+
+  VHLK02000001.     241522 AGAAGGACCCGA-----ACAA----TACAAATGTAGAAA-------TAAA 241555
+                                 v ii  -----   ?----v  i iv  i i i------- i  
+  rnd-2_family-        165 AGAAGGCCTTGAGGAGGACANGAGCGACGAGAGTGGGAGGACGAGCTGAA 214
+
+  VHLK02000001.     241556 TCCATTCCAACCAAAGGAACTACTGGAGGGGACCGAAGAATGTGTTCTCC 241605
+                              ?   vi   i vivvvv  v       ? vv  v  i  i vi  vi
+  rnd-2_family-        215 TCCNTTCAGACCGACATTCATAGTGGAGGGNAGGGACGAGTGCGACCTGT 264
+
+  VHLK02000001.     241606 AAATGTTTGATATTTGTAACTCAACTTC------AATTGTTTTGGGTCCA 241649
+                            v?    i ? iii  i     ?     ------   vi viii ---- 
+  rnd-2_family-        265 ACNTGTTCGNTGCCTGCAACTCNACTTCTGCNAGAATAATGCCAG----A 310
+
+  VHLK02000001.     241650 AGAAATGTGTTGTTTAAGGAGAATTGGACATTGTTTATAATGATTAACAA 241699
+                              ? i    --   i     i i     ii i  i---i     vv  i
+  rnd-2_family-        311 AGANACGTGT--TTTGAGGAGGACTGGACGCTATTC---GTGATTCTCAG 355
+
+  VHLK02000001.     241700 T---GGAATACCCCCATACATCTCGGAAAATCACGACTTTAATT 241740
+                            ---   i     ? -i    -v   i   --    ?v      
+  rnd-2_family-        356 TTCGGGAGTACCCNC-CACAT-GCGGGAAA--ACGANGTTAATT 395
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 29.54
+CpG sites = 43, Kimura (unadjusted) = 34.39
+Transitions / transversions = 1.30 (43/33)
+Gap_init rate = 0.09 (28 / 311), avg. gap size = 1.86 (52 / 28)
+
+662 20.10 5.03 2.73 VHLK02000001.1 241732 241910 (124120) rnd-2_family-193#Unknown 426 608 (0) m_b167s001i18
+
+  VHLK02000001.     241732 ACTTTAATTACAAATACGAATTCATCAATACC-CAAACA-----AATCGT 241775
+                              vi  i     i     -      i-   v- i    ----- iv  -
+  rnd-2_family-        426 ACTACAACTACAAGTACGA-TTCATCG-TACGGCGAACAGGAGGAGACG- 472
+
+  VHLK02000001.     241776 GTGGTCCTATCTCTTTCGTACAACAACGAGACCGTTGTATTCAGAAACGA 241825
+                                v                          v  v     i  i  i  
+  rnd-2_family-        473 GTGGTGCTATCTCTTTCGTACAACAACGAGACAGTAGTATTTAGGAATGA 522
+
+  VHLK02000001.     241826 G---GCTTCTGGAGAGATTTCAGTAGCTGGCGCACCTCAGTGTGGTCCGT 241872
+                            ---i ivv  i    i  -- i    v  vv v  ?           v 
+  rnd-2_family-        523 GATAACCGGTGAAGAGGTT--AATAGCGGGATCTCCNCAGTGTGGTCCCT 570
+
+  VHLK02000001.     241873 ACTGCTCAACTCATCCAAATGGCTACTTTACATTCTGG 241910
+                               i     vi       v    v   ii ?  i   
+  rnd-2_family-        571 ACTGTTCAACGTATCCAAAGGGCTTCTTCGCNTTTTGG 608
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 20.95
+CpG sites = 19, Kimura (unadjusted) = 23.99
+Transitions / transversions = 1.19 (19/16)
+Gap_init rate = 0.04 (8 / 178), avg. gap size = 1.75 (14 / 8)
+
+690 26.56 10.08 2.54 VHLK02000001.1 245564 245930 (120100) rnd-2_family-193#Unknown 1 394 (214) m_b167s001i19
+
+  VHLK02000001.     245564 CTACAGTCCTGAATATGAT--GAAAAGACTGGAGTTTACAATCCACTGTC 245611
+                                ii     vivv   -- i    --i              ?vv v?
+  rnd-2_family-          1 CTACAACCCTGACCTGGATTCGGAAAG--CGGAGTTTACAATCCNGAGAN 48
+
+  VHLK02000001.     245612 TAAATACCAAGTAACTTATCCGTATTTCCCTTCAGGAATAACACCTGCTC 245661
+                           i      vii viv vi    v  i v    i ?     v vi       
+  rnd-2_family-         49 CAAATACGGGGAGTCGCATCCTTACTACCCTCCNGGAATCAAGCCTGCTC 98
+
+  VHLK02000001.     245662 CT-TTGTATGGAGACGAACTTAACACACCTCCAGGTTACGAGTTTAACTC 245710
+                            i-   -i?  v    i?iiv     v  vvvi  v    vv vi  iv 
+  rnd-2_family-         99 CCGTTG-GNGGCGACGGNTCGAACACCCCAGAGGGATACGTTTACAATAC 147
+
+  VHLK02000001.     245711 AACCACAAGTCAGTTTGAAAAG--CTTGA------------TAGTGAGAG 245746
+                           v     ?i v        i   --     ------------iiii     
+  rnd-2_family-        148 CACCACNGGACAGTTTGAGAAGGCCTTGAGGAGGACANGAGCGACGAGAG 197
+
+  VHLK02000001.     245747 TAGA-----GAGCTGAATCCTTTCAGACCTCCCTACATGAAAGAGGGTAA 245791
+                            i i-----           ?        vv v v   iivi     ? i
+  rnd-2_family-        198 TGGGAGGACGAGCTGAATCCNTTCAGACCGACATTCATAGTGGAGGGNAG 247
+
+  VHLK02000001.     245792 AGAAGAATGCGACCTTGGAATGTTCGATATTTGCAA---TAGTACTGGAA 245838
+                           i  v  i        vviv?      ? iii     ---? v v   v? 
+  rnd-2_family-        248 GGACGAGTGCGACCTGTACNTGTTCGNTGCCTGCAACTCNACTTCTGCNA 297
+
+  VHLK02000001.     245839 TAACAATGGTTCCATCAGGAATTTTGTTTTCA-GACAACTGGACGTTAAT 245887
+                           v  i    ---   vv  i? -iv      v -  vi        i  v 
+  rnd-2_family-        298 GAATAATG---CCAGAAGANA-CGTGTTTTGAGGAGGACTGGACGCTATT 343
+
+  VHLK02000001.     245888 GGGAATGATT-TCAA--CAGGAGT----TCCACATCCGG----ATGATGT 245926
+                           v ---     -   i-- i     ----?      v   ---- i  ?  
+  rnd-2_family-        344 CG---TGATTCTCAGTTCGGGAGTACCCNCCACATGCGGGAAAACGANGT 390
+
+  VHLK02000001.     245927 TAAT 245930
+                               
+  rnd-2_family-        391 TAAT 394
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 31.54
+CpG sites = 47, Kimura (unadjusted) = 35.06
+Transitions / transversions = 0.98 (47/48)
+Gap_init rate = 0.06 (21 / 366), avg. gap size = 2.24 (47 / 21)
+
+317 15.79 0.00 0.00 VHLK02000001.1 246069 246125 (119905) rnd-2_family-193#Unknown 552 608 (0) m_b167s001i20
+
+  VHLK02000001.     246069 TCCCCTCAATGTGGTCCCTTTTGTTCAACTTATCCAGATGGATTCTTCAC 246118
+                             i  ?  i          vi        v      i v  v      i 
+  rnd-2_family-        552 TCTCCNCAGTGTGGTCCCTACTGTTCAACGTATCCAAAGGGCTTCTTCGC 601
+
+  VHLK02000001.     246119 ATTTTGG 246125
+                           ?      
+  rnd-2_family-        602 NTTTTGG 608
+
+Matrix = 20p37g.matrix
+Kimura (with divCpGMod) = 16.47
+CpG sites = 5, Kimura (unadjusted) = 18.62
+Transitions / transversions = 1.25 (5/4)
+Gap_init rate = 0.00 (0 / 56), avg. gap size = 0.0 (0 / 0)
+
+## Batch Overlap Boundaries
+##   VHLK02000017.1  59261, 57262, 116523, 114524
+##   VHLK02000081.1  55645, 53646, 109291, 107292, 162937, 160938
+##   VHLK02000001.1  54003, 52004, 106007, 104008, 158011, 156012, 210015, 208016, 262019, 260020, 314023, 312024
+##   VHLK02000064.1  51648, 49649, 101297, 99298, 150946, 148947
+##   VHLK02000026.1  40902, 38903
+##   VHLK02000023.1  51958, 49959, 101917, 99918
+##   VHLK02000074.1  47511, 45512
+##   VHLK02000047.1  58210, 56211, 114421, 112422, 170632, 168633, 226843, 224844
+##   VHLK02000067.1  43585, 41586
+##   VHLK02000044.1  48984, 46985, 95969, 93970
+##   VHLK02000030.1  48569, 46570, 95139, 93140, 141709, 139710, 188279, 186280
+##   VHLK02000073.1  56774, 54775
+##   VHLK02000066.1  51449, 49450, 100899, 98900, 150349, 148350, 199799, 197800, 249249, 247250
+##   VHLK02000005.1  37347, 35348
+##   VHLK02000085.1  57046, 55047, 112093, 110094, 167140, 165141, 222187, 220188
+##   VHLK02000013.1  48779, 46780
+##   VHLK02000058.1  49584, 47585, 97169, 95170, 144754, 142755
+##   VHLK02000046.1  59498, 57499, 116997, 114998, 174496, 172497, 231995, 229996, 289494, 287495, 346993, 344994, 404492, 402493
+##   VHLK02000059.1  58257, 56258, 114515, 112516
+##   VHLK02000015.1  57327, 55328, 112655, 110656, 167983, 165984, 223311, 221312, 278639, 276640
+##   VHLK02000079.1  52196, 50197, 102393, 100394, 152590, 150591, 202787, 200788, 252984, 250985, 303181, 301182
+##   VHLK02000083.1  58455, 56456, 114911, 112912, 171367, 169368
+##   VHLK02000062.1  45814, 43815, 89629, 87630
+##   VHLK02000036.1  59044, 57045, 116089, 114090, 173134, 171135, 230179, 228180, 287224, 285225, 344269, 342270, 401314, 399315, 458359, 456360
+##   VHLK02000006.1  54944, 52945, 107889, 105890, 160834, 158835
+##   VHLK02000056.1  56641, 54642, 111283, 109284, 165925, 163926, 220567, 218568
+##   VHLK02000086.1  58920, 56921, 115841, 113842, 172762, 170763
+##   VHLK02000091.1  58930, 56931, 115861, 113862
+##   VHLK02000021.1  52050, 50051
+##   VHLK02000057.1  56457, 54458, 110915, 108916, 165373, 163374, 219831, 217832
+##   VHLK02000087.1  37420, 35421
+##   VHLK02000041.1  52981, 50982, 103963, 101964, 154945, 152946, 205927, 203928, 256909, 254910
+##   VHLK02000054.1  54413, 52414, 106827, 104828, 159241, 157242, 211655, 209656, 264069, 262070, 316483, 314484
+##   VHLK02000010.1  43358, 41359, 84717, 82718
+##   VHLK02000084.1  51237, 49238, 100475, 98476
+##   VHLK02000061.1  52416, 50417, 102833, 100834, 153250, 151251
+##   VHLK02000040.1  45779, 43780, 89559, 87560, 133339, 131340
+##   VHLK02000071.1  57339, 55340, 112679, 110680, 168019, 166020, 223359, 221360, 278699, 276700, 334039, 332040, 389379, 387380, 444719, 442720
+## Total Sequences: 93
+## Total Length: 9059344
+## Total NonMask ( excluding >20bp runs of N/X bases ): 9059033
+## Total NonSub ( excluding all non ACGT bases ):9058925
+RepeatMasker version 4.1.5 , default mode
+run with rmblastn version 2.14.0+
+RM Library: 

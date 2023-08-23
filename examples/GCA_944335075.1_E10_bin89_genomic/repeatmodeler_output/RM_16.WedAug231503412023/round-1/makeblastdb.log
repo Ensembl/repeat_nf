@@ -1,0 +1,77 @@
+
+
+Building a new DB, current time: 08/23/2023 15:04:34
+New DB name:   /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-1/sampleDB-1.fa
+New DB title:  /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-1/sampleDB-1.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 125 sequences in 0.0212409 seconds.
+
+
+
+
+Building a new DB, current time: 08/23/2023 15:04:36
+New DB name:   /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-1/consensi.fa
+New DB title:  /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-1/consensi.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 6 sequences in 0.154674 seconds.
+
+
+
+
+Building a new DB, current time: 08/23/2023 15:04:38
+New DB name:   /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-1/consensi.fa
+New DB title:  /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-1/consensi.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 6 sequences in 0.166118 seconds.
+
+
+
+
+Building a new DB, current time: 08/23/2023 15:04:43
+New DB name:   /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-1/family-0.fa
+New DB title:  /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-1/family-0.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 17 sequences in 0.01548 seconds.
+
+
+
+
+Building a new DB, current time: 08/23/2023 15:04:45
+New DB name:   /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-1/family-0-cons-2.fa
+New DB title:  /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-1/family-0-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000160933 seconds.
+
+
+
+
+Building a new DB, current time: 08/23/2023 15:04:47
+New DB name:   /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-1/family-0-cons-3.fa
+New DB title:  /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-1/family-0-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000154972 seconds.
+
+
+
+
+Building a new DB, current time: 08/23/2023 15:04:49
+New DB name:   /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-1/family-0-cons-4.fa
+New DB title:  /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-1/family-0-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000152826 seconds.
+
+

@@ -1,0 +1,78 @@
+RepeatModeler Version 2.0.4
+===========================
+Using output directory = /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023
+Search Engine = rmblast 2.14.0+
+Dependencies: TRF 4.09, RECON 1.08, RepeatScout 1.0.6, RepeatMasker 4.1.5
+LTR Structural Analysis: Disabled [use -LTRStruct to enable]
+Random Number Seed: 1692799418
+Database = /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/01/7a3ebb4c13cffc51da45c875611842/GCA_944335075.1_E10_bin89_genomic.fna_database/repeatmodeler_db   - Sequences = 109
+  - Bases = 2555964
+  - N50 = 32910
+  - Contig Histogram:
+  Size(bp)                                                        Count
+  -----------------------------------------------------------------------
+  108674-116228 |*                                                  [ 1 ]
+  101120-108673 |                                                   [  ]
+  93567-101120  |                                                   [  ]
+  86013-93566   |*                                                  [ 1 ]
+  78460-86013   |*                                                  [ 1 ]
+  70906-78459   |                                                   [  ]
+  63352-70905   |****                                               [ 3 ]
+  55799-63352   |******                                             [ 4 ]
+  48245-55798   |****                                               [ 3 ]
+  40692-48245   |*                                                  [ 1 ]
+  33138-40691   |**************                                     [ 9 ]
+  25584-33137   |**********************                             [ 14 ]
+  18031-25584   |***************************                        [ 17 ]
+  10477-18030   |**************************************             [ 24 ]
+  2924-10477    |************************************************** [ 31 ]
+
+Storage Throughput = fair ( 597.44 MB/s )
+
+
+RepeatModeler Round # 1
+========================
+Searching for Repeats
+ -- Sampling from the database...
+   - Gathering up to 40000000 bp
+   - Final Sample Size = 2555870 bp ( 2555870 non ambiguous )
+   - Num Contigs Represented = 109
+   - Sequence extraction : 00:00:01 (hh:mm:ss) Elapsed Time
+ -- Running RepeatScout on the sequences...
+   - RepeatScout: 00:00:51 (hh:mm:ss) Elapsed Time
+Round Time: 00:01:08 (hh:mm:ss) Elapsed Time : 1 families discovered.
+
+
+RepeatModeler Round # 2
+========================
+Searching for Repeats
+ -- Sampling from the database...
+   - Gathering up to 10000000 bp
+   - Sequence extraction : 00:00:01 (hh:mm:ss) Elapsed Time
+ -- Running TRFMask on the sequence...
+   - TRFMask time 00:00:04 (hh:mm:ss) Elapsed Time
+ -- Masking repeats from the previous rounds...
+       17 repeats masked totaling 3166 bp(s).
+   - TE Masking time 00:00:03 (hh:mm:ss) Elapsed Time
+ -- Sample Stats:
+       Sample Size 2555870 bp
+       Num Contigs Represented = 109
+       Non ambiguous bp:
+             Initial: 2555870 bp
+             After Masking: 2498829 bp
+             Masked: 2.23 % 
+ -- Input Database Coverage: 2555870 bp out of 2555964 bp ( 100.00 % )
+Sampling Time: 00:00:10 (hh:mm:ss) Elapsed Time
+Running all-by-other comparisons...
+  - Total Comparisons = 7750
+Comparison Time: 00:15:18 (hh:mm:ss) Elapsed Time, 1113 HSPs Collected
+Number of families returned by RECON: 319
+Round Time: 00:16:00 (hh:mm:ss) Elapsed Time : 0 families discovered.
+
+RepeatScout/RECON discovery complete: 1 families found
+
+
+Classification Time: 00:00:14 (hh:mm:ss) Elapsed Time
+
+
+Program Time: 00:17:22 (hh:mm:ss) Elapsed Time

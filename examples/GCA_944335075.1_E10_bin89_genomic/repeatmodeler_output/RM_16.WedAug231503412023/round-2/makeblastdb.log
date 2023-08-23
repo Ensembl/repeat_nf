@@ -1,0 +1,11 @@
+
+
+Building a new DB, current time: 08/23/2023 15:04:58
+New DB name:   /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-2/sampleDB-2.fa.masked
+New DB title:  /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/32/6829f024221d9ff452de643ae92158/repeatmodeler_output/RM_16.WedAug231503412023/round-2/sampleDB-2.fa.masked
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 125 sequences in 0.0439541 seconds.
+
+

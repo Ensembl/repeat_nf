@@ -1,0 +1,45 @@
+##gff-version 3
+##sequence-region VHLK02000001.1 1 366030
+VHLK02000001.1	RepeatMasker	dispersed_repeat	219222	219278	15.8	+	.	ID=1;Target "Motif:rnd-2_family-193" 552 608
+VHLK02000001.1	RepeatMasker	dispersed_repeat	220803	221068	28.3	+	.	ID=2;Target "Motif:rnd-2_family-193" 68 349
+VHLK02000001.1	RepeatMasker	dispersed_repeat	221190	221300	24.3	+	.	ID=2;Target "Motif:rnd-2_family-193" 497 608
+VHLK02000001.1	RepeatMasker	dispersed_repeat	222656	223034	11.4	+	.	ID=3;Target "Motif:rnd-2_family-193" 1 394
+VHLK02000001.1	RepeatMasker	dispersed_repeat	223245	223391	22.2	+	.	ID=4;Target "Motif:rnd-2_family-193" 461 608
+VHLK02000001.1	RepeatMasker	dispersed_repeat	224807	225401	 9.1	+	.	ID=5;Target "Motif:rnd-2_family-193" 1 608
+VHLK02000001.1	RepeatMasker	dispersed_repeat	226756	227167	 6.8	+	.	ID=6;Target "Motif:rnd-2_family-193" 15 449
+VHLK02000001.1	RepeatMasker	dispersed_repeat	227247	227393	12.9	+	.	ID=6;Target "Motif:rnd-2_family-193" 457 608
+VHLK02000001.1	RepeatMasker	dispersed_repeat	228749	229099	20.6	+	.	ID=7;Target "Motif:rnd-2_family-193" 16 367
+VHLK02000001.1	RepeatMasker	dispersed_repeat	229260	229412	18.9	+	.	ID=7;Target "Motif:rnd-2_family-193" 455 608
+VHLK02000001.1	RepeatMasker	dispersed_repeat	230816	231121	19.9	+	.	ID=8;Target "Motif:rnd-2_family-193" 1 307
+VHLK02000001.1	RepeatMasker	dispersed_repeat	231174	231212	12.8	+	.	ID=8;Target "Motif:rnd-2_family-193" 570 608
+VHLK02000001.1	RepeatMasker	dispersed_repeat	232724	233056	19.3	+	.	ID=9;Target "Motif:rnd-2_family-193" 34 367
+VHLK02000001.1	RepeatMasker	dispersed_repeat	233133	233276	25.0	+	.	ID=9;Target "Motif:rnd-2_family-193" 464 608
+VHLK02000001.1	RepeatMasker	dispersed_repeat	235451	235979	28.7	+	.	ID=10;Target "Motif:rnd-2_family-193" 37 608
+VHLK02000001.1	RepeatMasker	dispersed_repeat	237943	238055	20.7	+	.	ID=11;Target "Motif:rnd-2_family-193" 495 608
+VHLK02000001.1	RepeatMasker	dispersed_repeat	239484	240005	19.5	+	.	ID=12;Target "Motif:rnd-2_family-193" 119 608
+VHLK02000001.1	RepeatMasker	dispersed_repeat	241429	241910	23.8	+	.	ID=13;Target "Motif:rnd-2_family-193" 72 608
+VHLK02000001.1	RepeatMasker	dispersed_repeat	245564	245930	26.6	+	.	ID=14;Target "Motif:rnd-2_family-193" 1 394
+VHLK02000001.1	RepeatMasker	dispersed_repeat	246069	246125	15.8	+	.	ID=15;Target "Motif:rnd-2_family-193" 552 608
+##sequence-region VHLK02000026.1 1 79807
+VHLK02000026.1	RepeatMasker	dispersed_repeat	79641	79797	 8.0	-	.	ID=16;Target "Motif:rnd-1_family-0" 1 91
+##sequence-region VHLK02000051.1 1 561
+VHLK02000051.1	RepeatMasker	dispersed_repeat	414	561	10.8	+	.	ID=17;Target "Motif:rnd-1_family-0" 1 92
+##sequence-region VHLK02000062.1 1 133445
+VHLK02000062.1	RepeatMasker	dispersed_repeat	1	234	 9.0	+	.	ID=18;Target "Motif:rnd-1_family-0" 1 92
+##sequence-region VHLK02000091.1 1 172795
+VHLK02000091.1	RepeatMasker	dispersed_repeat	742	877	 9.1	+	.	ID=19;Target "Motif:rnd-1_family-0" 1 92
+VHLK02000091.1	RepeatMasker	dispersed_repeat	870	1037	10.6	+	.	ID=20;Target "Motif:rnd-1_family-0" 1 92
+VHLK02000091.1	RepeatMasker	dispersed_repeat	1047	1435	 6.7	+	.	ID=21;Target "Motif:rnd-1_family-0" 1 92
+VHLK02000091.1	RepeatMasker	dispersed_repeat	1428	1912	 9.8	+	.	ID=22;Target "Motif:rnd-1_family-0" 1 92
+VHLK02000091.1	RepeatMasker	dispersed_repeat	1903	2245	11.4	+	.	ID=23;Target "Motif:rnd-1_family-0" 1 92
+VHLK02000091.1	RepeatMasker	dispersed_repeat	2238	2362	14.5	+	.	ID=24;Target "Motif:rnd-1_family-0" 1 92
+VHLK02000091.1	RepeatMasker	dispersed_repeat	2638	3430	 9.0	+	.	ID=25;Target "Motif:rnd-1_family-0" 1 92
+VHLK02000091.1	RepeatMasker	dispersed_repeat	3423	3598	10.8	+	.	ID=26;Target "Motif:rnd-1_family-0" 1 92
+VHLK02000091.1	RepeatMasker	dispersed_repeat	3589	4176	 8.4	+	.	ID=27;Target "Motif:rnd-1_family-0" 1 92
+##sequence-region VHLK02000092.1 1 19760
+VHLK02000092.1	RepeatMasker	dispersed_repeat	16551	16669	17.4	-	.	ID=28;Target "Motif:rnd-1_family-0" 1 91
+VHLK02000092.1	RepeatMasker	dispersed_repeat	16668	16754	14.4	-	.	ID=28;Target "Motif:rnd-1_family-0" 4 77
+VHLK02000092.1	RepeatMasker	dispersed_repeat	16723	16825	14.7	-	.	ID=29;Target "Motif:rnd-1_family-0" 1 82
+VHLK02000092.1	RepeatMasker	dispersed_repeat	16962	17045	26.6	-	.	ID=30;Target "Motif:rnd-1_family-0" 1 81
+VHLK02000092.1	RepeatMasker	dispersed_repeat	17138	17234	23.6	-	.	ID=31;Target "Motif:rnd-1_family-0" 2 92
+VHLK02000092.1	RepeatMasker	dispersed_repeat	17617	17712	18.8	-	.	ID=32;Target "Motif:rnd-1_family-0" 1 75

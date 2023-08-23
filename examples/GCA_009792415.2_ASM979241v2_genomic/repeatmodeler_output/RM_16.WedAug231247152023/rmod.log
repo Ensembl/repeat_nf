@@ -1,0 +1,58 @@
+RepeatModeler Version 2.0.4
+===========================
+Using output directory = /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/a9/6eb6c3a609e557e36ac6b050a0ab65/repeatmodeler_output/RM_16.WedAug231247152023
+Search Engine = rmblast 2.14.0+
+Dependencies: TRF 4.09, RECON 1.08, RepeatScout 1.0.6, RepeatMasker 4.1.5
+LTR Structural Analysis: Disabled [use -LTRStruct to enable]
+Random Number Seed: 1692791232
+Database = /hps/nobackup/flicek/ensembl/genebuild/purav/nextflow1/work/ff/69c5237bf531ae2285eb32edaf6153/GCA_009792415.2_ASM979241v2_genomic.fna_database/repeatmodeler_db   - Sequences = 93
+  - Bases = 9059344
+Storage Throughput = fair ( 488.20 MB/s )
+
+
+RepeatModeler Round # 1
+========================
+Searching for Repeats
+ -- Sampling from the database...
+   - Gathering up to 40000000 bp
+   - Final Sample Size = 9059237 bp ( 9058818 non ambiguous )
+   - Num Contigs Represented = 93
+   - Sequence extraction : 00:00:01 (hh:mm:ss) Elapsed Time
+ -- Running RepeatScout on the sequences...
+   - RepeatScout: 00:04:33 (hh:mm:ss) Elapsed Time
+Round Time: 00:04:56 (hh:mm:ss) Elapsed Time : 1 families discovered.
+
+
+RepeatModeler Round # 2
+========================
+Searching for Repeats
+ -- Sampling from the database...
+   - Gathering up to 10000000 bp
+   - Sequence extraction : 00:00:02 (hh:mm:ss) Elapsed Time
+ -- Running TRFMask on the sequence...
+   - TRFMask time 00:00:27 (hh:mm:ss) Elapsed Time
+ -- Masking repeats from the previous rounds...
+       21 repeats masked totaling 1230 bp(s).
+   - TE Masking time 00:00:06 (hh:mm:ss) Elapsed Time
+ -- Sample Stats:
+       Sample Size 9059237 bp
+       Num Contigs Represented = 93
+       Non ambiguous bp:
+             Initial: 9058818 bp
+             After Masking: 9026663 bp
+             Masked: 0.35 % 
+ -- Input Database Coverage: 9059237 bp out of 9059344 bp ( 100.00 % )
+Sampling Time: 00:00:38 (hh:mm:ss) Elapsed Time
+Running all-by-other comparisons...
+  - Total Comparisons = 41328
+Comparison Time: 01:30:13 (hh:mm:ss) Elapsed Time, 870 HSPs Collected
+Number of families returned by RECON: 305
+Round Time: 01:31:53 (hh:mm:ss) Elapsed Time : 1 families discovered.
+
+RepeatScout/RECON discovery complete: 2 families found
+
+
+Classification Time: 00:00:22 (hh:mm:ss) Elapsed Time
+
+
+Program Time: 01:37:11 (hh:mm:ss) Elapsed Time
