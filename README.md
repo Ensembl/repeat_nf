@@ -1,27 +1,14 @@
-# Repeat NextFlow Pipeline
+# NextFlow Repeat Annotation Pipeline
 
-This is a NextFlow pipeline designed to find and annotate repeats (GSoC project). The pipeline consists of multiple processes: `buildDatabase`, `repeatmodeler`, `repeatmasker`, `dust`, and `trf`. Additionally, Singularity support has been added to containerize the required tools.
+### Project Overview:
 
-## Requirements
+- **Student:** Purav Biyani
+- **Mentors:** Leanne Haggerty, Thiago Genez, Francesca Tricomi
+- **Project Proposal:** [GSoC’23 Proposal](https://drive.google.com/file/d/17j3x1iiF7lwsjnjeGjd_orcTXO-25VFX/view?usp=sharing)
+- **Organization:** Genome Assembly and Annotation
+### Description:
 
-To run this pipeline, make sure you have the following requirements installed:
-
-- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) version 11 or above
-- [Nextflow](https://www.nextflow.io/) version 21.04.3 or above
-- [Singularity](https://sylabs.io/singularity/) version 3.7.0 or above (for containerization)
-
-## Installation
-
-1. Install Java Development Kit (JDK) version 11 or above by following the installation instructions provided by the JDK provider.
-    
-2. Install Nextflow by following the instructions provided in the [Nextflow documentation](https://www.nextflow.io/docs/latest/getstarted.html).
-    
-3. Install Singularity by following the instructions provided in the [Singularity documentation](https://sylabs.io/guides/3.7/user-guide/quick_start.html).
-    
-4. Pull the Singularity image for RepeatModeler and RepeatMasker using the following command:
-    
-    `singularity pull docker://dfam/tetools:latest`    
-
+The "Nextflow Pipeline for Repeat Annotation" project aimed to redesign and implement a new pipeline for finding and annotating repetitive DNA sequences in eukaryotic genomes using Nextflow. The existing infrastructure, which used eHive, was reaching the end of its life, and this project focused on transitioning the workflow to Nextflow. The pipeline outputs a masked genome sequence incorporating comprehensive annotations for repeats, low complexity regions, and tandem repeats. Furthermore, an annotated repeats file in GTF format provides detailed information about the identified repeat elements.
 ## Usage
 
 1. Clone this repository to your local machine or download the files directly.
@@ -34,7 +21,6 @@ To run this pipeline, make sure you have the following requirements installed:
     ```
    nextflow -C nextflow.config run repeat_pipeline.nf --input <fastafile> --engine <engine>
     ```
-    
 4. The pipeline will execute the processes in the following order:
     
     - `buildDatabase`: This process takes a FASTA file as input and builds a repeat database using RepeatModeler's `BuildDatabase` tool inside the Singularity container. The repeat database files will be stored in the output directory `${fastaFile}_database/`.
@@ -48,3 +34,23 @@ To run this pipeline, make sure you have the following requirements installed:
     - `trf`: This process executes Tandem Repeat Finder (`trf`) on the original FASTA file inside the Singularity container and generates output in the `trf_output/` directory.
         
 5. The results will be generated in the specified output directories or the default output directories if not provided.
+
+### What Work Was Done: 
+
+- **Workflow Implementation in Nextflow:** Developed a robust Nextflow pipeline for repetitive element annotation. This involved integrating various components such as Repeatmodeler, Repeatmasker, DUST, and TRF. Ensured proper data flow and dependencies between the processes.
+- **Singularity Integration:** Incorporated Singularity support into the pipeline to containerize the required tools, ensuring a consistent and isolated environment for execution.
+- **Installation and Usage Documentation:** Created detailed installation and usage instructions for running the pipeline. Documented the steps to install necessary dependencies, download required tools, and execute the pipeline effectively.
+- **Testing:** Tested the pipeline locally and on cluster to ensure its functionality.
+
+### What's Left to Do: 
+
+- **Genome Chunking Implementation:** Implement genome chunking strategy to divide large genomes into smaller, manageable segments. Each genome chunk will be processed independently, allowing for parallel execution and improved performance.
+- **RepeatModeler Library Check:** Prior to initiating the RepeatModeler process, implement a library existence check. Verify whether the required RepeatModeler library is available on the designated site. If the library does not exist, proceed with the RepeatModeler process. If the library is present, we can skip the RepeatModeler step and proceed with the rest of the pipeline.
+- **Deployment:** Deploy and validate the pipeline on different cloud platforms to verify its scalability and reliability.
+
+### Acknowledgement:
+
+I extend my gratitude to my mentors, Leanne, Thiago, and Francesca, for their unwavering guidance and support throughout the project. Their expertise and insights greatly contributed to my learning experience. Working with the Genome Assembly and Annotation community and being part of this project has been an amazing journey into software development and teamwork. The challenges faced and milestones achieved have enhanced my skills and will undoubtedly shape my future endeavors.
+
+
+For more information, visit my [GSoC profile](https://summerofcode.withgoogle.com/programs/2023/projects/aFLAmznr).
